@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="14F1021" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Start" id="BYZ-38-t0r" customClass="ViewController" customModule="hatsuon_sangokushi" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -15,11 +17,162 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wcb-qI-72j">
+                                <rect key="frame" x="20" y="90" width="560" height="53"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="85" id="eqa-1y-9FP"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment content="発音三国志">
+                                        <attributes>
+                                            <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <font key="NSFont" size="53" name="HiraMinProN-W6"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="eqa-1y-9FP"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="bdC-je-rTH">
+                                <rect key="frame" x="20" y="188" width="560" height="130"/>
+                                <color key="backgroundColor" red="1" green="0.99215686274509807" blue="0.90588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="130" id="evb-0Y-qh1"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">三国志の武将、
+中国語で言えますか？
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HiraMinProN-W6"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HiraMinProN-W6"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content">クイズで中国語の発音を
+覚えよう！
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HiraMinProN-W6"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lgk-Py-BvR" customClass="Button_Custom" customModule="hatsuon_sangokushi" customModuleProvider="target">
+                                <rect key="frame" x="20" y="520" width="560" height="50"/>
+                                <color key="backgroundColor" red="0.96078431372549022" green="0.49803921568627452" blue="0.090196078431372548" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="GHn-W9-zTD"/>
+                                </constraints>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="開始">
+                                            <attributes>
+                                                <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                <font key="NSFont" size="25" name="HiraMinProN-W6"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" red="0.96078431372549022" green="0.49803921568627452" blue="0.5490196078431373" alpha="1" colorSpace="calibratedRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="0.90588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="Wcb-qI-72j" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="1EL-e3-vbI"/>
+                            <constraint firstItem="Wcb-qI-72j" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="6TG-pD-q5X"/>
+                            <constraint firstItem="bdC-je-rTH" firstAttribute="top" secondItem="Wcb-qI-72j" secondAttribute="bottom" constant="40" id="7CY-c0-4PP"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Wcb-qI-72j" secondAttribute="trailing" id="DzE-FQ-w8e"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Wcb-qI-72j" secondAttribute="trailing" constant="119" id="IBl-OY-iTr"/>
+                            <constraint firstItem="bdC-je-rTH" firstAttribute="top" secondItem="Wcb-qI-72j" secondAttribute="bottom" constant="45" id="O1U-RW-dJO"/>
+                            <constraint firstItem="Wcb-qI-72j" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Pco-AZ-Okt"/>
+                            <constraint firstItem="Wcb-qI-72j" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="U87-tg-Z5K"/>
+                            <constraint firstItem="bdC-je-rTH" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="VuU-Bf-1Ww"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="lgk-Py-BvR" secondAttribute="bottom" constant="30" id="ZBQ-wa-d0R"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="bdC-je-rTH" secondAttribute="trailing" id="abr-Lc-HF3"/>
+                            <constraint firstItem="lgk-Py-BvR" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="ccD-ES-eLv"/>
+                            <constraint firstItem="Wcb-qI-72j" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="70" id="eOW-IN-K0I"/>
+                            <constraint firstItem="lgk-Py-BvR" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="rLG-vj-bpj"/>
+                            <constraint firstItem="bdC-je-rTH" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="uWi-Uf-qdT"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="1EL-e3-vbI"/>
+                                <exclude reference="IBl-OY-iTr"/>
+                                <exclude reference="U87-tg-Z5K"/>
+                                <exclude reference="7CY-c0-4PP"/>
+                                <exclude reference="VuU-Bf-1Ww"/>
+                            </mask>
+                        </variation>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="544" y="446"/>
+        </scene>
+        <!--Quiz View Controller-->
+        <scene sceneID="M3Z-ne-LSJ">
+            <objects>
+                <viewController storyboardIdentifier="Quiz" id="LsP-Xh-VYw" customClass="QuizViewController" customModule="hatsuon_sangokushi" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="grA-Hc-8zi"/>
+                        <viewControllerLayoutGuide type="bottom" id="IKe-OZ-KP7"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kzF-hq-N4V">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uw7-5E-wDi" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1237" y="446"/>
+        </scene>
+        <!--Result View Controller-->
+        <scene sceneID="XBz-Co-Wgo">
+            <objects>
+                <viewController storyboardIdentifier="Result" id="5Oz-uo-uGl" customClass="ResultViewController" customModule="hatsuon_sangokushi" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="XHt-De-Nab"/>
+                        <viewControllerLayoutGuide type="bottom" id="tCk-yM-8lN"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Gnw-IH-hbg">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PPb-mf-Rfk" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1953" y="446"/>
         </scene>
     </scenes>
 </document>

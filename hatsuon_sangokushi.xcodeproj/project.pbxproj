@@ -14,6 +14,25 @@
 		CD0DECC61BE869080068E77E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0DECC41BE869080068E77E /* LaunchScreen.storyboard */; };
 		CD0DECD11BE869080068E77E /* hatsuon_sangokushiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECD01BE869080068E77E /* hatsuon_sangokushiTests.swift */; };
 		CD0DECDC1BE869080068E77E /* hatsuon_sangokushiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECDB1BE869080068E77E /* hatsuon_sangokushiUITests.swift */; };
+		CD0DECEA1BE869CC0068E77E /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECE91BE869CC0068E77E /* QuizViewController.swift */; };
+		CD0DECEC1BE869E30068E77E /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECEB1BE869E30068E77E /* ResultViewController.swift */; };
+		CD0DED371BE86B4F0068E77E /* iseki.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED291BE86B4F0068E77E /* iseki.mp3 */; };
+		CD0DED381BE86B4F0068E77E /* kakouen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */; };
+		CD0DED391BE86B4F0068E77E /* kakousyou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */; };
+		CD0DED3A1BE86B4F0068E77E /* kakoutoku.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */; };
+		CD0DED3B1BE86B4F0068E77E /* kakouton.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */; };
+		CD0DED3C1BE86B4F0068E77E /* kouchu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */; };
+		CD0DED3D1BE86B4F0068E77E /* kougai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */; };
+		CD0DED3E1BE86B4F0068E77E /* kouken.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED301BE86B4F0068E77E /* kouken.mp3 */; };
+		CD0DED3F1BE86B4F0068E77E /* kouso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED311BE86B4F0068E77E /* kouso.mp3 */; };
+		CD0DED401BE86B4F0068E77E /* ouhei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED321BE86B4F0068E77E /* ouhei.mp3 */; };
+		CD0DED411BE86B4F0068E77E /* ourou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED331BE86B4F0068E77E /* ourou.mp3 */; };
+		CD0DED421BE86B4F0068E77E /* ourui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED341BE86B4F0068E77E /* ourui.mp3 */; };
+		CD0DED431BE86B4F0068E77E /* ousan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED351BE86B4F0068E77E /* ousan.mp3 */; };
+		CD0DED441BE86B4F0068E77E /* ousou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED361BE86B4F0068E77E /* ousou.mp3 */; };
+		CD0DED481BE86B7A0068E77E /* Person.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED471BE86B7A0068E77E /* Person.plist */; };
+		CD0DED4A1BE86BA70068E77E /* MDColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED491BE86BA70068E77E /* MDColor.swift */; };
+		CD0DED4C1BE87F790068E77E /* Button_Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4B1BE87F790068E77E /* Button_Custom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +66,25 @@
 		CD0DECD71BE869080068E77E /* hatsuon_sangokushiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hatsuon_sangokushiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0DECDB1BE869080068E77E /* hatsuon_sangokushiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hatsuon_sangokushiUITests.swift; sourceTree = "<group>"; };
 		CD0DECDD1BE869080068E77E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD0DECE91BE869CC0068E77E /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		CD0DECEB1BE869E30068E77E /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		CD0DED291BE86B4F0068E77E /* iseki.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iseki.mp3; sourceTree = "<group>"; };
+		CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakouen.mp3; sourceTree = "<group>"; };
+		CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakousyou.mp3; sourceTree = "<group>"; };
+		CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakoutoku.mp3; sourceTree = "<group>"; };
+		CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakouton.mp3; sourceTree = "<group>"; };
+		CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouchu.mp3; sourceTree = "<group>"; };
+		CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kougai.mp3; sourceTree = "<group>"; };
+		CD0DED301BE86B4F0068E77E /* kouken.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouken.mp3; sourceTree = "<group>"; };
+		CD0DED311BE86B4F0068E77E /* kouso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouso.mp3; sourceTree = "<group>"; };
+		CD0DED321BE86B4F0068E77E /* ouhei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ouhei.mp3; sourceTree = "<group>"; };
+		CD0DED331BE86B4F0068E77E /* ourou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ourou.mp3; sourceTree = "<group>"; };
+		CD0DED341BE86B4F0068E77E /* ourui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ourui.mp3; sourceTree = "<group>"; };
+		CD0DED351BE86B4F0068E77E /* ousan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ousan.mp3; sourceTree = "<group>"; };
+		CD0DED361BE86B4F0068E77E /* ousou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ousou.mp3; sourceTree = "<group>"; };
+		CD0DED471BE86B7A0068E77E /* Person.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Person.plist; sourceTree = "<group>"; };
+		CD0DED491BE86BA70068E77E /* MDColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MDColor.swift; sourceTree = "<group>"; };
+		CD0DED4B1BE87F790068E77E /* Button_Custom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button_Custom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +135,15 @@
 		CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */ = {
 			isa = PBXGroup;
 			children = (
+				CD0DED491BE86BA70068E77E /* MDColor.swift */,
+				CD0DED471BE86B7A0068E77E /* Person.plist */,
+				CD0DED281BE86B110068E77E /* mp3 */,
 				CD0DECBB1BE869080068E77E /* AppDelegate.swift */,
 				CD0DECBD1BE869080068E77E /* ViewController.swift */,
 				CD0DECBF1BE869080068E77E /* Main.storyboard */,
+				CD0DED4B1BE87F790068E77E /* Button_Custom.swift */,
+				CD0DECE91BE869CC0068E77E /* QuizViewController.swift */,
+				CD0DECEB1BE869E30068E77E /* ResultViewController.swift */,
 				CD0DECC21BE869080068E77E /* Assets.xcassets */,
 				CD0DECC41BE869080068E77E /* LaunchScreen.storyboard */,
 				CD0DECC71BE869080068E77E /* Info.plist */,
@@ -123,6 +167,27 @@
 				CD0DECDD1BE869080068E77E /* Info.plist */,
 			);
 			path = hatsuon_sangokushiUITests;
+			sourceTree = "<group>";
+		};
+		CD0DED281BE86B110068E77E /* mp3 */ = {
+			isa = PBXGroup;
+			children = (
+				CD0DED291BE86B4F0068E77E /* iseki.mp3 */,
+				CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */,
+				CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */,
+				CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */,
+				CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */,
+				CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */,
+				CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */,
+				CD0DED301BE86B4F0068E77E /* kouken.mp3 */,
+				CD0DED311BE86B4F0068E77E /* kouso.mp3 */,
+				CD0DED321BE86B4F0068E77E /* ouhei.mp3 */,
+				CD0DED331BE86B4F0068E77E /* ourou.mp3 */,
+				CD0DED341BE86B4F0068E77E /* ourui.mp3 */,
+				CD0DED351BE86B4F0068E77E /* ousan.mp3 */,
+				CD0DED361BE86B4F0068E77E /* ousou.mp3 */,
+			);
+			name = mp3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +294,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD0DED3E1BE86B4F0068E77E /* kouken.mp3 in Resources */,
+				CD0DED391BE86B4F0068E77E /* kakousyou.mp3 in Resources */,
+				CD0DED371BE86B4F0068E77E /* iseki.mp3 in Resources */,
+				CD0DED3D1BE86B4F0068E77E /* kougai.mp3 in Resources */,
+				CD0DED3F1BE86B4F0068E77E /* kouso.mp3 in Resources */,
+				CD0DED481BE86B7A0068E77E /* Person.plist in Resources */,
+				CD0DED381BE86B4F0068E77E /* kakouen.mp3 in Resources */,
 				CD0DECC61BE869080068E77E /* LaunchScreen.storyboard in Resources */,
+				CD0DED421BE86B4F0068E77E /* ourui.mp3 in Resources */,
 				CD0DECC31BE869080068E77E /* Assets.xcassets in Resources */,
+				CD0DED401BE86B4F0068E77E /* ouhei.mp3 in Resources */,
+				CD0DED411BE86B4F0068E77E /* ourou.mp3 in Resources */,
+				CD0DED3A1BE86B4F0068E77E /* kakoutoku.mp3 in Resources */,
+				CD0DED441BE86B4F0068E77E /* ousou.mp3 in Resources */,
+				CD0DED3B1BE86B4F0068E77E /* kakouton.mp3 in Resources */,
+				CD0DED431BE86B4F0068E77E /* ousan.mp3 in Resources */,
 				CD0DECC11BE869080068E77E /* Main.storyboard in Resources */,
+				CD0DED3C1BE86B4F0068E77E /* kouchu.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +336,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD0DED4C1BE87F790068E77E /* Button_Custom.swift in Sources */,
+				CD0DECEA1BE869CC0068E77E /* QuizViewController.swift in Sources */,
+				CD0DED4A1BE86BA70068E77E /* MDColor.swift in Sources */,
 				CD0DECBE1BE869080068E77E /* ViewController.swift in Sources */,
 				CD0DECBC1BE869080068E77E /* AppDelegate.swift in Sources */,
+				CD0DECEC1BE869E30068E77E /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
