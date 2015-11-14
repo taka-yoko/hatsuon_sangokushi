@@ -34,6 +34,21 @@
 		CD0DED4A1BE86BA70068E77E /* MDColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED491BE86BA70068E77E /* MDColor.swift */; };
 		CD0DED4C1BE87F790068E77E /* Button_Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4B1BE87F790068E77E /* Button_Custom.swift */; };
 		CD0DED4E1BE88A940068E77E /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4D1BE88A940068E77E /* Extension.swift */; };
+		CD0DED501BEECE260068E77E /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED4F1BEECE260068E77E /* bg.jpg */; };
+		CD0DED521BEECF690068E77E /* bg_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED511BEECF690068E77E /* bg_2.jpg */; };
+		CD0DED541BEF75970068E77E /* bg_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED531BEF75970068E77E /* bg_3.jpg */; };
+		CD1922211BF39BB1006E7F9A /* title.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922201BF39BB1006E7F9A /* title.pdf */; };
+		CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */; };
+		CD1922491BF6CE7B006E7F9A /* komei_1per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */; };
+		CD19224A1BF6CE7B006E7F9A /* komei_20per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223F1BF6CE7B006E7F9A /* komei_20per.pdf */; };
+		CD19224B1BF6CE7B006E7F9A /* komei_40per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922401BF6CE7B006E7F9A /* komei_40per.pdf */; };
+		CD19224C1BF6CE7B006E7F9A /* komei_60per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */; };
+		CD19224D1BF6CE7B006E7F9A /* komei_80per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */; };
+		CD19224E1BF6CE7B006E7F9A /* komei_100per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */; };
+		CD19224F1BF6CE7B006E7F9A /* komei_buhao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */; };
+		CD1922501BF6CE7B006E7F9A /* komei_dot.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */; };
+		CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */; };
+		CD1922521BF6CE7B006E7F9A /* komei_kaishi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +102,21 @@
 		CD0DED491BE86BA70068E77E /* MDColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MDColor.swift; sourceTree = "<group>"; };
 		CD0DED4B1BE87F790068E77E /* Button_Custom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button_Custom.swift; sourceTree = "<group>"; };
 		CD0DED4D1BE88A940068E77E /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		CD0DED4F1BEECE260068E77E /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		CD0DED511BEECF690068E77E /* bg_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_2.jpg; sourceTree = "<group>"; };
+		CD0DED531BEF75970068E77E /* bg_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_3.jpg; sourceTree = "<group>"; };
+		CD1922201BF39BB1006E7F9A /* title.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = title.pdf; sourceTree = "<group>"; };
+		CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_0per.pdf; sourceTree = "<group>"; };
+		CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_1per.pdf; sourceTree = "<group>"; };
+		CD19223F1BF6CE7B006E7F9A /* komei_20per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_20per.pdf; sourceTree = "<group>"; };
+		CD1922401BF6CE7B006E7F9A /* komei_40per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_40per.pdf; sourceTree = "<group>"; };
+		CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_60per.pdf; sourceTree = "<group>"; };
+		CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_80per.pdf; sourceTree = "<group>"; };
+		CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_100per.pdf; sourceTree = "<group>"; };
+		CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_buhao.pdf; sourceTree = "<group>"; };
+		CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_dot.pdf; sourceTree = "<group>"; };
+		CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_hao.pdf; sourceTree = "<group>"; };
+		CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_kaishi.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,12 +167,17 @@
 		CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */ = {
 			isa = PBXGroup;
 			children = (
+				CD19223C1BF6CE60006E7F9A /* komei */,
 				CD0DED491BE86BA70068E77E /* MDColor.swift */,
 				CD0DED471BE86B7A0068E77E /* Person.plist */,
 				CD0DED281BE86B110068E77E /* mp3 */,
 				CD0DECBB1BE869080068E77E /* AppDelegate.swift */,
 				CD0DECBD1BE869080068E77E /* ViewController.swift */,
 				CD0DECBF1BE869080068E77E /* Main.storyboard */,
+				CD1922201BF39BB1006E7F9A /* title.pdf */,
+				CD0DED531BEF75970068E77E /* bg_3.jpg */,
+				CD0DED511BEECF690068E77E /* bg_2.jpg */,
+				CD0DED4F1BEECE260068E77E /* bg.jpg */,
 				CD0DED4D1BE88A940068E77E /* Extension.swift */,
 				CD0DED4B1BE87F790068E77E /* Button_Custom.swift */,
 				CD0DECE91BE869CC0068E77E /* QuizViewController.swift */,
@@ -191,6 +226,24 @@
 				CD0DED361BE86B4F0068E77E /* ousou.mp3 */,
 			);
 			name = mp3;
+			sourceTree = "<group>";
+		};
+		CD19223C1BF6CE60006E7F9A /* komei */ = {
+			isa = PBXGroup;
+			children = (
+				CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */,
+				CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */,
+				CD19223F1BF6CE7B006E7F9A /* komei_20per.pdf */,
+				CD1922401BF6CE7B006E7F9A /* komei_40per.pdf */,
+				CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */,
+				CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */,
+				CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */,
+				CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */,
+				CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */,
+				CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */,
+				CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */,
+			);
+			name = komei;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -297,21 +350,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */,
+				CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */,
 				CD0DED3E1BE86B4F0068E77E /* kouken.mp3 in Resources */,
+				CD19224D1BF6CE7B006E7F9A /* komei_80per.pdf in Resources */,
+				CD19224A1BF6CE7B006E7F9A /* komei_20per.pdf in Resources */,
+				CD19224F1BF6CE7B006E7F9A /* komei_buhao.pdf in Resources */,
+				CD19224C1BF6CE7B006E7F9A /* komei_60per.pdf in Resources */,
+				CD0DED521BEECF690068E77E /* bg_2.jpg in Resources */,
 				CD0DED391BE86B4F0068E77E /* kakousyou.mp3 in Resources */,
 				CD0DED371BE86B4F0068E77E /* iseki.mp3 in Resources */,
 				CD0DED3D1BE86B4F0068E77E /* kougai.mp3 in Resources */,
 				CD0DED3F1BE86B4F0068E77E /* kouso.mp3 in Resources */,
 				CD0DED481BE86B7A0068E77E /* Person.plist in Resources */,
 				CD0DED381BE86B4F0068E77E /* kakouen.mp3 in Resources */,
+				CD19224B1BF6CE7B006E7F9A /* komei_40per.pdf in Resources */,
 				CD0DECC61BE869080068E77E /* LaunchScreen.storyboard in Resources */,
 				CD0DED421BE86B4F0068E77E /* ourui.mp3 in Resources */,
 				CD0DECC31BE869080068E77E /* Assets.xcassets in Resources */,
+				CD0DED501BEECE260068E77E /* bg.jpg in Resources */,
+				CD1922211BF39BB1006E7F9A /* title.pdf in Resources */,
 				CD0DED401BE86B4F0068E77E /* ouhei.mp3 in Resources */,
+				CD0DED541BEF75970068E77E /* bg_3.jpg in Resources */,
 				CD0DED411BE86B4F0068E77E /* ourou.mp3 in Resources */,
+				CD19224E1BF6CE7B006E7F9A /* komei_100per.pdf in Resources */,
 				CD0DED3A1BE86B4F0068E77E /* kakoutoku.mp3 in Resources */,
+				CD1922491BF6CE7B006E7F9A /* komei_1per.pdf in Resources */,
 				CD0DED441BE86B4F0068E77E /* ousou.mp3 in Resources */,
 				CD0DED3B1BE86B4F0068E77E /* kakouton.mp3 in Resources */,
+				CD1922501BF6CE7B006E7F9A /* komei_dot.pdf in Resources */,
+				CD1922521BF6CE7B006E7F9A /* komei_kaishi.pdf in Resources */,
 				CD0DED431BE86B4F0068E77E /* ousan.mp3 in Resources */,
 				CD0DECC11BE869080068E77E /* Main.storyboard in Resources */,
 				CD0DED3C1BE86B4F0068E77E /* kouchu.mp3 in Resources */,
@@ -570,6 +638,7 @@
 				CD0DECE21BE869080068E77E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD0DECE31BE869080068E77E /* Build configuration list for PBXNativeTarget "hatsuon_sangokushiTests" */ = {
 			isa = XCConfigurationList;
@@ -578,6 +647,7 @@
 				CD0DECE51BE869080068E77E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD0DECE61BE869080068E77E /* Build configuration list for PBXNativeTarget "hatsuon_sangokushiUITests" */ = {
 			isa = XCConfigurationList;
@@ -586,6 +656,7 @@
 				CD0DECE81BE869080068E77E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
