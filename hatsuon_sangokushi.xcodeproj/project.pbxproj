@@ -16,27 +16,9 @@
 		CD0DECDC1BE869080068E77E /* hatsuon_sangokushiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECDB1BE869080068E77E /* hatsuon_sangokushiUITests.swift */; };
 		CD0DECEA1BE869CC0068E77E /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECE91BE869CC0068E77E /* QuizViewController.swift */; };
 		CD0DECEC1BE869E30068E77E /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECEB1BE869E30068E77E /* ResultViewController.swift */; };
-		CD0DED371BE86B4F0068E77E /* iseki.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED291BE86B4F0068E77E /* iseki.mp3 */; };
-		CD0DED381BE86B4F0068E77E /* kakouen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */; };
-		CD0DED391BE86B4F0068E77E /* kakousyou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */; };
-		CD0DED3A1BE86B4F0068E77E /* kakoutoku.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */; };
-		CD0DED3B1BE86B4F0068E77E /* kakouton.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */; };
-		CD0DED3C1BE86B4F0068E77E /* kouchu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */; };
-		CD0DED3D1BE86B4F0068E77E /* kougai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */; };
-		CD0DED3E1BE86B4F0068E77E /* kouken.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED301BE86B4F0068E77E /* kouken.mp3 */; };
-		CD0DED3F1BE86B4F0068E77E /* kouso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED311BE86B4F0068E77E /* kouso.mp3 */; };
-		CD0DED401BE86B4F0068E77E /* ouhei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED321BE86B4F0068E77E /* ouhei.mp3 */; };
-		CD0DED411BE86B4F0068E77E /* ourou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED331BE86B4F0068E77E /* ourou.mp3 */; };
-		CD0DED421BE86B4F0068E77E /* ourui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED341BE86B4F0068E77E /* ourui.mp3 */; };
-		CD0DED431BE86B4F0068E77E /* ousan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED351BE86B4F0068E77E /* ousan.mp3 */; };
-		CD0DED441BE86B4F0068E77E /* ousou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED361BE86B4F0068E77E /* ousou.mp3 */; };
-		CD0DED481BE86B7A0068E77E /* Person.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED471BE86B7A0068E77E /* Person.plist */; };
 		CD0DED4A1BE86BA70068E77E /* MDColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED491BE86BA70068E77E /* MDColor.swift */; };
 		CD0DED4C1BE87F790068E77E /* Button_Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4B1BE87F790068E77E /* Button_Custom.swift */; };
 		CD0DED4E1BE88A940068E77E /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4D1BE88A940068E77E /* Extension.swift */; };
-		CD0DED501BEECE260068E77E /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED4F1BEECE260068E77E /* bg.jpg */; };
-		CD0DED521BEECF690068E77E /* bg_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED511BEECF690068E77E /* bg_2.jpg */; };
-		CD0DED541BEF75970068E77E /* bg_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD0DED531BEF75970068E77E /* bg_3.jpg */; };
 		CD1922211BF39BB1006E7F9A /* title.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922201BF39BB1006E7F9A /* title.pdf */; };
 		CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */; };
 		CD1922491BF6CE7B006E7F9A /* komei_1per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */; };
@@ -49,6 +31,257 @@
 		CD1922501BF6CE7B006E7F9A /* komei_dot.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */; };
 		CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */; };
 		CD1922521BF6CE7B006E7F9A /* komei_kaishi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */; };
+		CD1922541BF6E2B5006E7F9A /* komei_silhouette.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */; };
+		CD1922971BF70657006E7F9A /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922911BF70657006E7F9A /* Icon-40@2x.png */; };
+		CD1922991BF70657006E7F9A /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922931BF70657006E7F9A /* Icon-60@2x.png */; };
+		CD19229A1BF70657006E7F9A /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922941BF70657006E7F9A /* Icon-60@3x.png */; };
+		CD19229B1BF70657006E7F9A /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922951BF70657006E7F9A /* Icon-Small@2x.png */; };
+		CD19229C1BF70657006E7F9A /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922961BF70657006E7F9A /* Icon-Small@3x.png */; };
+		CD56A0361C34C9B900A6A5C2 /* baolong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F461C34C9B800A6A5C2 /* baolong.mp3 */; };
+		CD56A0371C34C9B900A6A5C2 /* baoxin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F471C34C9B800A6A5C2 /* baoxin.mp3 */; };
+		CD56A0381C34C9B900A6A5C2 /* buzhi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F481C34C9B800A6A5C2 /* buzhi.mp3 */; };
+		CD56A0391C34C9B900A6A5C2 /* caihe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F491C34C9B800A6A5C2 /* caihe.mp3 */; };
+		CD56A03A1C34C9B900A6A5C2 /* caimao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4A1C34C9B800A6A5C2 /* caimao.mp3 */; };
+		CD56A03B1C34C9B900A6A5C2 /* caizhong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4B1C34C9B800A6A5C2 /* caizhong.mp3 */; };
+		CD56A03C1C34C9B900A6A5C2 /* caoang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4C1C34C9B800A6A5C2 /* caoang.mp3 */; };
+		CD56A03D1C34C9B900A6A5C2 /* caobao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4D1C34C9B800A6A5C2 /* caobao.mp3 */; };
+		CD56A03E1C34C9B900A6A5C2 /* caocao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4E1C34C9B800A6A5C2 /* caocao.mp3 */; };
+		CD56A03F1C34C9B900A6A5C2 /* caochun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F4F1C34C9B800A6A5C2 /* caochun.mp3 */; };
+		CD56A0401C34C9B900A6A5C2 /* caohong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F501C34C9B800A6A5C2 /* caohong.mp3 */; };
+		CD56A0411C34C9B900A6A5C2 /* caopi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F511C34C9B800A6A5C2 /* caopi.mp3 */; };
+		CD56A0421C34C9B900A6A5C2 /* caoren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F521C34C9B800A6A5C2 /* caoren.mp3 */; };
+		CD56A0431C34C9B900A6A5C2 /* caorui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F531C34C9B800A6A5C2 /* caorui.mp3 */; };
+		CD56A0441C34C9B900A6A5C2 /* caoxiu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F541C34C9B800A6A5C2 /* caoxiu.mp3 */; };
+		CD56A0451C34C9B900A6A5C2 /* caozhen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F551C34C9B800A6A5C2 /* caozhen.mp3 */; };
+		CD56A0461C34C9B900A6A5C2 /* caozhi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F561C34C9B800A6A5C2 /* caozhi.mp3 */; };
+		CD56A0471C34C9B900A6A5C2 /* chendao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F571C34C9B800A6A5C2 /* chendao.mp3 */; };
+		CD56A0481C34C9B900A6A5C2 /* chengong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F581C34C9B800A6A5C2 /* chengong.mp3 */; };
+		CD56A0491C34C9B900A6A5C2 /* chengpu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F591C34C9B800A6A5C2 /* chengpu.mp3 */; };
+		CD56A04A1C34C9B900A6A5C2 /* chengui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5A1C34C9B800A6A5C2 /* chengui.mp3 */; };
+		CD56A04B1C34C9B900A6A5C2 /* chengyi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5B1C34C9B800A6A5C2 /* chengyi.mp3 */; };
+		CD56A04C1C34C9B900A6A5C2 /* chengyin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5C1C34C9B800A6A5C2 /* chengyin.mp3 */; };
+		CD56A04D1C34C9B900A6A5C2 /* chengyu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5D1C34C9B800A6A5C2 /* chengyu.mp3 */; };
+		CD56A04E1C34C9B900A6A5C2 /* chenheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5E1C34C9B800A6A5C2 /* chenheng.mp3 */; };
+		CD56A04F1C34C9B900A6A5C2 /* chenjiao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F5F1C34C9B800A6A5C2 /* chenjiao.mp3 */; };
+		CD56A0501C34C9B900A6A5C2 /* chenlan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F601C34C9B800A6A5C2 /* chenlan.mp3 */; };
+		CD56A0511C34C9B900A6A5C2 /* chenlin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F611C34C9B800A6A5C2 /* chenlin.mp3 */; };
+		CD56A0521C34C9B900A6A5C2 /* chenqun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F621C34C9B800A6A5C2 /* chenqun.mp3 */; };
+		CD56A0531C34C9B900A6A5C2 /* chenwu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F631C34C9B800A6A5C2 /* chenwu.mp3 */; };
+		CD56A0541C34C9B900A6A5C2 /* dengxian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F641C34C9B800A6A5C2 /* dengxian.mp3 */; };
+		CD56A0551C34C9B900A6A5C2 /* dianwei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F651C34C9B800A6A5C2 /* dianwei.mp3 */; };
+		CD56A0561C34C9B900A6A5C2 /* dingfeng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F661C34C9B800A6A5C2 /* dingfeng.mp3 */; };
+		CD56A0571C34C9B900A6A5C2 /* dongmin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F671C34C9B800A6A5C2 /* dongmin.mp3 */; };
+		CD56A0581C34C9B900A6A5C2 /* dongyun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F681C34C9B800A6A5C2 /* dongyun.mp3 */; };
+		CD56A0591C34C9B900A6A5C2 /* dongzhuo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F691C34C9B800A6A5C2 /* dongzhuo.mp3 */; };
+		CD56A05A1C34C9B900A6A5C2 /* fanchou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6A1C34C9B800A6A5C2 /* fanchou.mp3 */; };
+		CD56A05B1C34C9B900A6A5C2 /* fazheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6B1C34C9B800A6A5C2 /* fazheng.mp3 */; };
+		CD56A05C1C34C9B900A6A5C2 /* feiyi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6C1C34C9B800A6A5C2 /* feiyi.mp3 */; };
+		CD56A05D1C34C9B900A6A5C2 /* fuying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6D1C34C9B800A6A5C2 /* fuying.mp3 */; };
+		CD56A05E1C34C9B900A6A5C2 /* ganning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6E1C34C9B800A6A5C2 /* ganning.mp3 */; };
+		CD56A05F1C34C9B900A6A5C2 /* gaoding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F6F1C34C9B800A6A5C2 /* gaoding.mp3 */; };
+		CD56A0601C34C9B900A6A5C2 /* gaolan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F701C34C9B800A6A5C2 /* gaolan.mp3 */; };
+		CD56A0611C34C9B900A6A5C2 /* gaopai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F711C34C9B800A6A5C2 /* gaopai.mp3 */; };
+		CD56A0621C34C9B900A6A5C2 /* gongsunzan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F721C34C9B800A6A5C2 /* gongsunzan.mp3 */; };
+		CD56A0631C34C9B900A6A5C2 /* gongzhi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F731C34C9B800A6A5C2 /* gongzhi.mp3 */; };
+		CD56A0641C34C9B900A6A5C2 /* guanping.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F741C34C9B800A6A5C2 /* guanping.mp3 */; };
+		CD56A0651C34C9B900A6A5C2 /* guansuo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F751C34C9B800A6A5C2 /* guansuo.mp3 */; };
+		CD56A0661C34C9B900A6A5C2 /* guanxing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F761C34C9B800A6A5C2 /* guanxing.mp3 */; };
+		CD56A0671C34C9B900A6A5C2 /* guanyu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F771C34C9B800A6A5C2 /* guanyu.mp3 */; };
+		CD56A0681C34C9B900A6A5C2 /* guohuai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F781C34C9B800A6A5C2 /* guohuai.mp3 */; };
+		CD56A0691C34C9B900A6A5C2 /* guojia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F791C34C9B800A6A5C2 /* guojia.mp3 */; };
+		CD56A06A1C34C9B900A6A5C2 /* guosi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7A1C34C9B800A6A5C2 /* guosi.mp3 */; };
+		CD56A06B1C34C9B900A6A5C2 /* guotu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7B1C34C9B800A6A5C2 /* guotu.mp3 */; };
+		CD56A06C1C34C9B900A6A5C2 /* guoyouzhi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7C1C34C9B800A6A5C2 /* guoyouzhi.mp3 */; };
+		CD56A06D1C34C9B900A6A5C2 /* guyong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7D1C34C9B800A6A5C2 /* guyong.mp3 */; };
+		CD56A06E1C34C9B900A6A5C2 /* handang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7E1C34C9B800A6A5C2 /* handang.mp3 */; };
+		CD56A06F1C34C9B900A6A5C2 /* hansui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F7F1C34C9B800A6A5C2 /* hansui.mp3 */; };
+		CD56A0701C34C9B900A6A5C2 /* hanxian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F801C34C9B800A6A5C2 /* hanxian.mp3 */; };
+		CD56A0711C34C9B900A6A5C2 /* hanxuan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F811C34C9B800A6A5C2 /* hanxuan.mp3 */; };
+		CD56A0721C34C9B900A6A5C2 /* haozhao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F821C34C9B800A6A5C2 /* haozhao.mp3 */; };
+		CD56A0731C34C9B900A6A5C2 /* houcheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F831C34C9B800A6A5C2 /* houcheng.mp3 */; };
+		CD56A0741C34C9B900A6A5C2 /* huanggai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F841C34C9B800A6A5C2 /* huanggai.mp3 */; };
+		CD56A0751C34C9B900A6A5C2 /* huangquan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F851C34C9B800A6A5C2 /* huangquan.mp3 */; };
+		CD56A0761C34C9B900A6A5C2 /* huangzhong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F861C34C9B800A6A5C2 /* huangzhong.mp3 */; };
+		CD56A0771C34C9B900A6A5C2 /* huangzu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F871C34C9B800A6A5C2 /* huangzu.mp3 */; };
+		CD56A0781C34C9B900A6A5C2 /* huaxin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F881C34C9B800A6A5C2 /* huaxin.mp3 */; };
+		CD56A0791C34C9B900A6A5C2 /* huaxiong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F891C34C9B800A6A5C2 /* huaxiong.mp3 */; };
+		CD56A07A1C34C9B900A6A5C2 /* huzun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8A1C34C9B800A6A5C2 /* huzun.mp3 */; };
+		CD56A07B1C34C9B900A6A5C2 /* jiakui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8B1C34C9B800A6A5C2 /* jiakui.mp3 */; };
+		CD56A07C1C34C9B900A6A5C2 /* jianggan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8C1C34C9B800A6A5C2 /* jianggan.mp3 */; };
+		CD56A07D1C34C9B900A6A5C2 /* jiangqin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8D1C34C9B800A6A5C2 /* jiangqin.mp3 */; };
+		CD56A07E1C34C9B900A6A5C2 /* jiangshu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8E1C34C9B800A6A5C2 /* jiangshu.mp3 */; };
+		CD56A07F1C34C9B900A6A5C2 /* jiangwan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F8F1C34C9B800A6A5C2 /* jiangwan.mp3 */; };
+		CD56A0801C34C9B900A6A5C2 /* jiangwei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F901C34C9B800A6A5C2 /* jiangwei.mp3 */; };
+		CD56A0811C34C9B900A6A5C2 /* jianyong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F911C34C9B800A6A5C2 /* jianyong.mp3 */; };
+		CD56A0821C34C9B900A6A5C2 /* jiaxu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F921C34C9B800A6A5C2 /* jiaxu.mp3 */; };
+		CD56A0831C34C9B900A6A5C2 /* jiling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F931C34C9B800A6A5C2 /* jiling.mp3 */; };
+		CD56A0841C34C9B900A6A5C2 /* jinxuan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F941C34C9B800A6A5C2 /* jinxuan.mp3 */; };
+		CD56A0851C34C9B900A6A5C2 /* jushou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F951C34C9B800A6A5C2 /* jushou.mp3 */; };
+		CD56A0861C34C9B900A6A5C2 /* kanze.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F961C34C9B800A6A5C2 /* kanze.mp3 */; };
+		CD56A0871C34C9B900A6A5C2 /* kongrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F971C34C9B800A6A5C2 /* kongrong.mp3 */; };
+		CD56A0881C34C9B900A6A5C2 /* kuaiyue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F981C34C9B800A6A5C2 /* kuaiyue.mp3 */; };
+		CD56A0891C34C9B900A6A5C2 /* leibo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F991C34C9B800A6A5C2 /* leibo.mp3 */; };
+		CD56A08A1C34C9B900A6A5C2 /* leitong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9A1C34C9B800A6A5C2 /* leitong.mp3 */; };
+		CD56A08B1C34C9B900A6A5C2 /* lejin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9B1C34C9B800A6A5C2 /* lejin.mp3 */; };
+		CD56A08C1C34C9B900A6A5C2 /* liangxing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9C1C34C9B800A6A5C2 /* liangxing.mp3 */; };
+		CD56A08D1C34C9B900A6A5C2 /* liaohua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9D1C34C9B800A6A5C2 /* liaohua.mp3 */; };
+		CD56A08E1C34C9B900A6A5C2 /* lidian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9E1C34C9B800A6A5C2 /* lidian.mp3 */; };
+		CD56A08F1C34C9B900A6A5C2 /* lifeng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569F9F1C34C9B800A6A5C2 /* lifeng.mp3 */; };
+		CD56A0901C34C9B900A6A5C2 /* lijue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA01C34C9B800A6A5C2 /* lijue.mp3 */; };
+		CD56A0911C34C9B900A6A5C2 /* lingtong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA11C34C9B800A6A5C2 /* lingtong.mp3 */; };
+		CD56A0921C34C9B900A6A5C2 /* liru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA21C34C9B800A6A5C2 /* liru.mp3 */; };
+		CD56A0931C34C9B900A6A5C2 /* lisu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA31C34C9B800A6A5C2 /* lisu.mp3 */; };
+		CD56A0941C34C9B900A6A5C2 /* liuba.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA41C34C9B800A6A5C2 /* liuba.mp3 */; };
+		CD56A0951C34C9B900A6A5C2 /* liubei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA51C34C9B800A6A5C2 /* liubei.mp3 */; };
+		CD56A0961C34C9B900A6A5C2 /* liubiao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA61C34C9B800A6A5C2 /* liubiao.mp3 */; };
+		CD56A0971C34C9B900A6A5C2 /* liucong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA71C34C9B800A6A5C2 /* liucong.mp3 */; };
+		CD56A0981C34C9B900A6A5C2 /* liudai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA81C34C9B800A6A5C2 /* liudai.mp3 */; };
+		CD56A0991C34C9B900A6A5C2 /* liudu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FA91C34C9B800A6A5C2 /* liudu.mp3 */; };
+		CD56A09A1C34C9B900A6A5C2 /* liufeng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAA1C34C9B800A6A5C2 /* liufeng.mp3 */; };
+		CD56A09B1C34C9B900A6A5C2 /* liuli.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAB1C34C9B800A6A5C2 /* liuli.mp3 */; };
+		CD56A09C1C34C9B900A6A5C2 /* liuqi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAC1C34C9B800A6A5C2 /* liuqi.mp3 */; };
+		CD56A09D1C34C9B900A6A5C2 /* liushan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAD1C34C9B800A6A5C2 /* liushan.mp3 */; };
+		CD56A09E1C34C9B900A6A5C2 /* liuxun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAE1C34C9B800A6A5C2 /* liuxun.mp3 */; };
+		CD56A09F1C34C9B900A6A5C2 /* liuyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FAF1C34C9B800A6A5C2 /* liuyan.mp3 */; };
+		CD56A0A01C34C9B900A6A5C2 /* liuyan1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB01C34C9B800A6A5C2 /* liuyan1.mp3 */; };
+		CD56A0A11C34C9B900A6A5C2 /* liuyao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB11C34C9B900A6A5C2 /* liuyao.mp3 */; };
+		CD56A0A21C34C9B900A6A5C2 /* liuyong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB21C34C9B900A6A5C2 /* liuyong.mp3 */; };
+		CD56A0A31C34C9B900A6A5C2 /* liuzhang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB31C34C9B900A6A5C2 /* liuzhang.mp3 */; };
+		CD56A0A41C34C9B900A6A5C2 /* liyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB41C34C9B900A6A5C2 /* liyan.mp3 */; };
+		CD56A0A51C34C9B900A6A5C2 /* lubu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB51C34C9B900A6A5C2 /* lubu.mp3 */; };
+		CD56A0A61C34C9B900A6A5C2 /* lufan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB61C34C9B900A6A5C2 /* lufan.mp3 */; };
+		CD56A0A71C34C9B900A6A5C2 /* luji.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB71C34C9B900A6A5C2 /* luji.mp3 */; };
+		CD56A0A81C34C9B900A6A5C2 /* lukai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB81C34C9B900A6A5C2 /* lukai.mp3 */; };
+		CD56A0A91C34C9B900A6A5C2 /* lukuang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FB91C34C9B900A6A5C2 /* lukuang.mp3 */; };
+		CD56A0AA1C34C9B900A6A5C2 /* lumeng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBA1C34C9B900A6A5C2 /* lumeng.mp3 */; };
+		CD56A0AB1C34C9B900A6A5C2 /* luqian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBB1C34C9B900A6A5C2 /* luqian.mp3 */; };
+		CD56A0AC1C34C9B900A6A5C2 /* lusu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBC1C34C9B900A6A5C2 /* lusu.mp3 */; };
+		CD56A0AD1C34C9B900A6A5C2 /* luxiang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBD1C34C9B900A6A5C2 /* luxiang.mp3 */; };
+		CD56A0AE1C34C9B900A6A5C2 /* luxun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBE1C34C9B900A6A5C2 /* luxun.mp3 */; };
+		CD56A0AF1C34C9B900A6A5C2 /* machao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FBF1C34C9B900A6A5C2 /* machao.mp3 */; };
+		CD56A0B01C34C9B900A6A5C2 /* madai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC01C34C9B900A6A5C2 /* madai.mp3 */; };
+		CD56A0B11C34C9B900A6A5C2 /* maliang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC11C34C9B900A6A5C2 /* maliang.mp3 */; };
+		CD56A0B21C34C9B900A6A5C2 /* manchong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC21C34C9B900A6A5C2 /* manchong.mp3 */; };
+		CD56A0B31C34C9B900A6A5C2 /* maojie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC31C34C9B900A6A5C2 /* maojie.mp3 */; };
+		CD56A0B41C34C9B900A6A5C2 /* masu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC41C34C9B900A6A5C2 /* masu.mp3 */; };
+		CD56A0B51C34C9B900A6A5C2 /* mateng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC51C34C9B900A6A5C2 /* mateng.mp3 */; };
+		CD56A0B61C34C9B900A6A5C2 /* matie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC61C34C9B900A6A5C2 /* matie.mp3 */; };
+		CD56A0B71C34C9B900A6A5C2 /* mawan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC71C34C9B900A6A5C2 /* mawan.mp3 */; };
+		CD56A0B81C34C9B900A6A5C2 /* maxiu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC81C34C9B900A6A5C2 /* maxiu.mp3 */; };
+		CD56A0B91C34C9B900A6A5C2 /* mengda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FC91C34C9B900A6A5C2 /* mengda.mp3 */; };
+		CD56A0BA1C34C9B900A6A5C2 /* menghuo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCA1C34C9B900A6A5C2 /* menghuo.mp3 */; };
+		CD56A0BB1C34C9B900A6A5C2 /* mengyou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCB1C34C9B900A6A5C2 /* mengyou.mp3 */; };
+		CD56A0BC1C34C9B900A6A5C2 /* mifang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCC1C34C9B900A6A5C2 /* mifang.mp3 */; };
+		CD56A0BD1C34C9B900A6A5C2 /* mizhu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCD1C34C9B900A6A5C2 /* mizhu.mp3 */; };
+		CD56A0BE1C34C9B900A6A5C2 /* niujin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCE1C34C9B900A6A5C2 /* niujin.mp3 */; };
+		CD56A0BF1C34C9B900A6A5C2 /* pangde.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FCF1C34C9B900A6A5C2 /* pangde.mp3 */; };
+		CD56A0C01C34C9B900A6A5C2 /* pangtong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD01C34C9B900A6A5C2 /* pangtong.mp3 */; };
+		CD56A0C11C34C9B900A6A5C2 /* panzhang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD11C34C9B900A6A5C2 /* panzhang.mp3 */; };
+		CD56A0C21C34C9B900A6A5C2 /* peiyuanshao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD21C34C9B900A6A5C2 /* peiyuanshao.mp3 */; };
+		CD56A0C31C34C9B900A6A5C2 /* qiaozhou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD31C34C9B900A6A5C2 /* qiaozhou.mp3 */; };
+		CD56A0C41C34C9B900A6A5C2 /* quancong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD41C34C9B900A6A5C2 /* quancong.mp3 */; };
+		CD56A0C51C34C9B900A6A5C2 /* shamoke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD51C34C9B900A6A5C2 /* shamoke.mp3 */; };
+		CD56A0C61C34C9B900A6A5C2 /* shenpai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD61C34C9B900A6A5C2 /* shenpai.mp3 */; };
+		CD56A0C71C34C9B900A6A5C2 /* shiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD71C34C9B900A6A5C2 /* shiren.mp3 */; };
+		CD56A0C81C34C9B900A6A5C2 /* simashi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD81C34C9B900A6A5C2 /* simashi.mp3 */; };
+		CD56A0C91C34C9B900A6A5C2 /* simayi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FD91C34C9B900A6A5C2 /* simayi.mp3 */; };
+		CD56A0CA1C34C9B900A6A5C2 /* simazhao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDA1C34C9B900A6A5C2 /* simazhao.mp3 */; };
+		CD56A0CB1C34C9B900A6A5C2 /* songxian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDB1C34C9B900A6A5C2 /* songxian.mp3 */; };
+		CD56A0CC1C34C9B900A6A5C2 /* sunce.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDC1C34C9B900A6A5C2 /* sunce.mp3 */; };
+		CD56A0CD1C34C9B900A6A5C2 /* sunhuan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDD1C34C9B900A6A5C2 /* sunhuan.mp3 */; };
+		CD56A0CE1C34C9B900A6A5C2 /* sunjian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDE1C34C9B900A6A5C2 /* sunjian.mp3 */; };
+		CD56A0CF1C34C9B900A6A5C2 /* sunquan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FDF1C34C9B900A6A5C2 /* sunquan.mp3 */; };
+		CD56A0D01C34C9B900A6A5C2 /* sunyi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE01C34C9B900A6A5C2 /* sunyi.mp3 */; };
+		CD56A0D11C34C9B900A6A5C2 /* sunyu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE11C34C9B900A6A5C2 /* sunyu.mp3 */; };
+		CD56A0D21C34C9B900A6A5C2 /* taishici.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE21C34C9B900A6A5C2 /* taishici.mp3 */; };
+		CD56A0D31C34C9B900A6A5C2 /* tangzi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE31C34C9B900A6A5C2 /* tangzi.mp3 */; };
+		CD56A0D41C34C9B900A6A5C2 /* tianchou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE41C34C9B900A6A5C2 /* tianchou.mp3 */; };
+		CD56A0D51C34C9B900A6A5C2 /* wangcan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE51C34C9B900A6A5C2 /* wangcan.mp3 */; };
+		CD56A0D61C34C9B900A6A5C2 /* wanglang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE61C34C9B900A6A5C2 /* wanglang.mp3 */; };
+		CD56A0D71C34C9B900A6A5C2 /* wanglei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE71C34C9B900A6A5C2 /* wanglei.mp3 */; };
+		CD56A0D81C34C9B900A6A5C2 /* wangping.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE81C34C9B900A6A5C2 /* wangping.mp3 */; };
+		CD56A0D91C34C9B900A6A5C2 /* wangshuang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FE91C34C9B900A6A5C2 /* wangshuang.mp3 */; };
+		CD56A0DA1C34C9B900A6A5C2 /* weixu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FEA1C34C9B900A6A5C2 /* weixu.mp3 */; };
+		CD56A0DB1C34C9B900A6A5C2 /* weiyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FEB1C34C9B900A6A5C2 /* weiyan.mp3 */; };
+		CD56A0DC1C34C9B900A6A5C2 /* wenchou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FEC1C34C9B900A6A5C2 /* wenchou.mp3 */; };
+		CD56A0DD1C34C9B900A6A5C2 /* wenpin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FED1C34C9B900A6A5C2 /* wenpin.mp3 */; };
+		CD56A0DE1C34C9B900A6A5C2 /* wuban.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FEE1C34C9B900A6A5C2 /* wuban.mp3 */; };
+		CD56A0DF1C34C9B900A6A5C2 /* wulan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FEF1C34C9B900A6A5C2 /* wulan.mp3 */; };
+		CD56A0E01C34C9B900A6A5C2 /* wuyi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF01C34C9B900A6A5C2 /* wuyi.mp3 */; };
+		CD56A0E11C34C9B900A6A5C2 /* xiahoude.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF11C34C9B900A6A5C2 /* xiahoude.mp3 */; };
+		CD56A0E21C34C9B900A6A5C2 /* xiahoudun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF21C34C9B900A6A5C2 /* xiahoudun.mp3 */; };
+		CD56A0E31C34C9B900A6A5C2 /* xiahoumao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF31C34C9B900A6A5C2 /* xiahoumao.mp3 */; };
+		CD56A0E41C34C9B900A6A5C2 /* xiahoushang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF41C34C9B900A6A5C2 /* xiahoushang.mp3 */; };
+		CD56A0E51C34C9B900A6A5C2 /* xiahouyuan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF51C34C9B900A6A5C2 /* xiahouyuan.mp3 */; };
+		CD56A0E61C34C9B900A6A5C2 /* xiangchong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF61C34C9B900A6A5C2 /* xiangchong.mp3 */; };
+		CD56A0E71C34C9B900A6A5C2 /* xingdaorong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF71C34C9B900A6A5C2 /* xingdaorong.mp3 */; };
+		CD56A0E81C34C9B900A6A5C2 /* xinpi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF81C34C9B900A6A5C2 /* xinpi.mp3 */; };
+		CD56A0E91C34C9B900A6A5C2 /* xuchu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FF91C34C9B900A6A5C2 /* xuchu.mp3 */; };
+		CD56A0EA1C34C9B900A6A5C2 /* xueying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFA1C34C9B900A6A5C2 /* xueying.mp3 */; };
+		CD56A0EB1C34C9B900A6A5C2 /* xugong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFB1C34C9B900A6A5C2 /* xugong.mp3 */; };
+		CD56A0EC1C34C9B900A6A5C2 /* xuhuang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFC1C34C9B900A6A5C2 /* xuhuang.mp3 */; };
+		CD56A0ED1C34C9B900A6A5C2 /* xujing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFD1C34C9B900A6A5C2 /* xujing.mp3 */; };
+		CD56A0EE1C34C9B900A6A5C2 /* xunyou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFE1C34C9B900A6A5C2 /* xunyou.mp3 */; };
+		CD56A0EF1C34C9B900A6A5C2 /* xunyu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD569FFF1C34C9B900A6A5C2 /* xunyu.mp3 */; };
+		CD56A0F01C34C9B900A6A5C2 /* xurong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0001C34C9B900A6A5C2 /* xurong.mp3 */; };
+		CD56A0F11C34C9B900A6A5C2 /* xusheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0011C34C9B900A6A5C2 /* xusheng.mp3 */; };
+		CD56A0F21C34C9B900A6A5C2 /* xushu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0021C34C9B900A6A5C2 /* xushu.mp3 */; };
+		CD56A0F31C34C9B900A6A5C2 /* yangbiao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0031C34C9B900A6A5C2 /* yangbiao.mp3 */; };
+		CD56A0F41C34C9B900A6A5C2 /* yangfeng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0041C34C9B900A6A5C2 /* yangfeng.mp3 */; };
+		CD56A0F51C34C9B900A6A5C2 /* yanghuai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0051C34C9B900A6A5C2 /* yanghuai.mp3 */; };
+		CD56A0F61C34C9B900A6A5C2 /* yangqiu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0061C34C9B900A6A5C2 /* yangqiu.mp3 */; };
+		CD56A0F71C34C9B900A6A5C2 /* yangsong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0071C34C9B900A6A5C2 /* yangsong.mp3 */; };
+		CD56A0F81C34C9B900A6A5C2 /* yangyi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0081C34C9B900A6A5C2 /* yangyi.mp3 */; };
+		CD56A0F91C34C9B900A6A5C2 /* yanjun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0091C34C9B900A6A5C2 /* yanjun.mp3 */; };
+		CD56A0FA1C34C9B900A6A5C2 /* yanliang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00A1C34C9B900A6A5C2 /* yanliang.mp3 */; };
+		CD56A0FB1C34C9B900A6A5C2 /* yanpu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00B1C34C9B900A6A5C2 /* yanpu.mp3 */; };
+		CD56A0FC1C34C9B900A6A5C2 /* yanyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00C1C34C9B900A6A5C2 /* yanyan.mp3 */; };
+		CD56A0FD1C34C9B900A6A5C2 /* yiji.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00D1C34C9B900A6A5C2 /* yiji.mp3 */; };
+		CD56A0FE1C34C9B900A6A5C2 /* yongkai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00E1C34C9B900A6A5C2 /* yongkai.mp3 */; };
+		CD56A0FF1C34C9B900A6A5C2 /* yuanshang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A00F1C34C9B900A6A5C2 /* yuanshang.mp3 */; };
+		CD56A1001C34C9B900A6A5C2 /* yuanshao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0101C34C9B900A6A5C2 /* yuanshao.mp3 */; };
+		CD56A1011C34C9B900A6A5C2 /* yuanshu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0111C34C9B900A6A5C2 /* yuanshu.mp3 */; };
+		CD56A1021C34C9B900A6A5C2 /* yuantan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0121C34C9B900A6A5C2 /* yuantan.mp3 */; };
+		CD56A1031C34C9B900A6A5C2 /* yuanxi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0131C34C9B900A6A5C2 /* yuanxi.mp3 */; };
+		CD56A1041C34C9B900A6A5C2 /* yuanyin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0141C34C9B900A6A5C2 /* yuanyin.mp3 */; };
+		CD56A1051C34C9B900A6A5C2 /* yufan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0151C34C9B900A6A5C2 /* yufan.mp3 */; };
+		CD56A1061C34C9B900A6A5C2 /* yujin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0161C34C9B900A6A5C2 /* yujin.mp3 */; };
+		CD56A1071C34C9B900A6A5C2 /* zhangbao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0171C34C9B900A6A5C2 /* zhangbao.mp3 */; };
+		CD56A1081C34C9B900A6A5C2 /* zhangfei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0181C34C9B900A6A5C2 /* zhangfei.mp3 */; };
+		CD56A1091C34C9B900A6A5C2 /* zhangheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0191C34C9B900A6A5C2 /* zhangheng.mp3 */; };
+		CD56A10A1C34C9B900A6A5C2 /* zhangji3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01A1C34C9B900A6A5C2 /* zhangji3.mp3 */; };
+		CD56A10B1C34C9B900A6A5C2 /* zhangji4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01B1C34C9B900A6A5C2 /* zhangji4.mp3 */; };
+		CD56A10C1C34C9B900A6A5C2 /* zhangliao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01C1C34C9B900A6A5C2 /* zhangliao.mp3 */; };
+		CD56A10D1C34C9B900A6A5C2 /* zhanglu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01D1C34C9B900A6A5C2 /* zhanglu.mp3 */; };
+		CD56A10E1C34C9B900A6A5C2 /* zhangmiao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01E1C34C9B900A6A5C2 /* zhangmiao.mp3 */; };
+		CD56A10F1C34C9B900A6A5C2 /* zhangren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A01F1C34C9B900A6A5C2 /* zhangren.mp3 */; };
+		CD56A1101C34C9B900A6A5C2 /* zhangshao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0201C34C9B900A6A5C2 /* zhangshao.mp3 */; };
+		CD56A1111C34C9B900A6A5C2 /* zhangxiu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0211C34C9B900A6A5C2 /* zhangxiu.mp3 */; };
+		CD56A1121C34C9B900A6A5C2 /* zhangxun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0221C34C9B900A6A5C2 /* zhangxun.mp3 */; };
+		CD56A1131C34C9B900A6A5C2 /* zhangying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0231C34C9B900A6A5C2 /* zhangying.mp3 */; };
+		CD56A1141C34C9B900A6A5C2 /* zhangyun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0241C34C9B900A6A5C2 /* zhangyun.mp3 */; };
+		CD56A1151C34C9B900A6A5C2 /* zhaofan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0251C34C9B900A6A5C2 /* zhaofan.mp3 */; };
+		CD56A1161C34C9B900A6A5C2 /* zhaoguang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0261C34C9B900A6A5C2 /* zhaoguang.mp3 */; };
+		CD56A1171C34C9B900A6A5C2 /* zhaoyun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0271C34C9B900A6A5C2 /* zhaoyun.mp3 */; };
+		CD56A1181C34C9B900A6A5C2 /* zhongyao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0281C34C9B900A6A5C2 /* zhongyao.mp3 */; };
+		CD56A1191C34C9B900A6A5C2 /* zhoucang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0291C34C9B900A6A5C2 /* zhoucang.mp3 */; };
+		CD56A11A1C34C9B900A6A5C2 /* zhoutai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02A1C34C9B900A6A5C2 /* zhoutai.mp3 */; };
+		CD56A11B1C34C9B900A6A5C2 /* zhouyu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02B1C34C9B900A6A5C2 /* zhouyu.mp3 */; };
+		CD56A11C1C34C9B900A6A5C2 /* zhubao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02C1C34C9B900A6A5C2 /* zhubao.mp3 */; };
+		CD56A11D1C34C9B900A6A5C2 /* zhugedan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02D1C34C9B900A6A5C2 /* zhugedan.mp3 */; };
+		CD56A11E1C34C9B900A6A5C2 /* zhugejin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02E1C34C9B900A6A5C2 /* zhugejin.mp3 */; };
+		CD56A11F1C34C9B900A6A5C2 /* zhugejun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A02F1C34C9B900A6A5C2 /* zhugejun.mp3 */; };
+		CD56A1201C34C9B900A6A5C2 /* zhugeke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0301C34C9B900A6A5C2 /* zhugeke.mp3 */; };
+		CD56A1211C34C9B900A6A5C2 /* zhugeliang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0311C34C9B900A6A5C2 /* zhugeliang.mp3 */; };
+		CD56A1221C34C9B900A6A5C2 /* zhuhuan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0321C34C9B900A6A5C2 /* zhuhuan.mp3 */; };
+		CD56A1231C34C9B900A6A5C2 /* zhujun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0331C34C9B900A6A5C2 /* zhujun.mp3 */; };
+		CD56A1241C34C9B900A6A5C2 /* zhuling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0341C34C9B900A6A5C2 /* zhuling.mp3 */; };
+		CD56A1251C34C9B900A6A5C2 /* zhuzhi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD56A0351C34C9B900A6A5C2 /* zhuzhi.mp3 */; };
+		CD56A1271C34F31200A6A5C2 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD56A1261C34F31200A6A5C2 /* Social.framework */; };
+		CD56A1291C34F9AA00A6A5C2 /* bg_img.png in Resources */ = {isa = PBXBuildFile; fileRef = CD56A1281C34F9AA00A6A5C2 /* bg_img.png */; };
+		CD56A12D1C351A7A00A6A5C2 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = CD56A12C1C351A7A00A6A5C2 /* twitter.png */; };
+		CD872C101C3437E100363A3A /* Person.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD872C0F1C3437E100363A3A /* Person.plist */; };
+		CDCF6A0E1C40B7620011EB75 /* bg_img_result.png in Resources */ = {isa = PBXBuildFile; fileRef = CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,27 +317,9 @@
 		CD0DECDD1BE869080068E77E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD0DECE91BE869CC0068E77E /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		CD0DECEB1BE869E30068E77E /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		CD0DED291BE86B4F0068E77E /* iseki.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iseki.mp3; sourceTree = "<group>"; };
-		CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakouen.mp3; sourceTree = "<group>"; };
-		CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakousyou.mp3; sourceTree = "<group>"; };
-		CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakoutoku.mp3; sourceTree = "<group>"; };
-		CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kakouton.mp3; sourceTree = "<group>"; };
-		CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouchu.mp3; sourceTree = "<group>"; };
-		CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kougai.mp3; sourceTree = "<group>"; };
-		CD0DED301BE86B4F0068E77E /* kouken.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouken.mp3; sourceTree = "<group>"; };
-		CD0DED311BE86B4F0068E77E /* kouso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kouso.mp3; sourceTree = "<group>"; };
-		CD0DED321BE86B4F0068E77E /* ouhei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ouhei.mp3; sourceTree = "<group>"; };
-		CD0DED331BE86B4F0068E77E /* ourou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ourou.mp3; sourceTree = "<group>"; };
-		CD0DED341BE86B4F0068E77E /* ourui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ourui.mp3; sourceTree = "<group>"; };
-		CD0DED351BE86B4F0068E77E /* ousan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ousan.mp3; sourceTree = "<group>"; };
-		CD0DED361BE86B4F0068E77E /* ousou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ousou.mp3; sourceTree = "<group>"; };
-		CD0DED471BE86B7A0068E77E /* Person.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Person.plist; sourceTree = "<group>"; };
 		CD0DED491BE86BA70068E77E /* MDColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MDColor.swift; sourceTree = "<group>"; };
 		CD0DED4B1BE87F790068E77E /* Button_Custom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button_Custom.swift; sourceTree = "<group>"; };
 		CD0DED4D1BE88A940068E77E /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
-		CD0DED4F1BEECE260068E77E /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
-		CD0DED511BEECF690068E77E /* bg_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_2.jpg; sourceTree = "<group>"; };
-		CD0DED531BEF75970068E77E /* bg_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_3.jpg; sourceTree = "<group>"; };
 		CD1922201BF39BB1006E7F9A /* title.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = title.pdf; sourceTree = "<group>"; };
 		CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_0per.pdf; sourceTree = "<group>"; };
 		CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_1per.pdf; sourceTree = "<group>"; };
@@ -117,6 +332,257 @@
 		CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_dot.pdf; sourceTree = "<group>"; };
 		CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_hao.pdf; sourceTree = "<group>"; };
 		CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_kaishi.pdf; sourceTree = "<group>"; };
+		CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_silhouette.pdf; sourceTree = "<group>"; };
+		CD1922911BF70657006E7F9A /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		CD1922931BF70657006E7F9A /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		CD1922941BF70657006E7F9A /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		CD1922951BF70657006E7F9A /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		CD1922961BF70657006E7F9A /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		CD569F461C34C9B800A6A5C2 /* baolong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = baolong.mp3; sourceTree = "<group>"; };
+		CD569F471C34C9B800A6A5C2 /* baoxin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = baoxin.mp3; sourceTree = "<group>"; };
+		CD569F481C34C9B800A6A5C2 /* buzhi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = buzhi.mp3; sourceTree = "<group>"; };
+		CD569F491C34C9B800A6A5C2 /* caihe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caihe.mp3; sourceTree = "<group>"; };
+		CD569F4A1C34C9B800A6A5C2 /* caimao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caimao.mp3; sourceTree = "<group>"; };
+		CD569F4B1C34C9B800A6A5C2 /* caizhong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caizhong.mp3; sourceTree = "<group>"; };
+		CD569F4C1C34C9B800A6A5C2 /* caoang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caoang.mp3; sourceTree = "<group>"; };
+		CD569F4D1C34C9B800A6A5C2 /* caobao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caobao.mp3; sourceTree = "<group>"; };
+		CD569F4E1C34C9B800A6A5C2 /* caocao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caocao.mp3; sourceTree = "<group>"; };
+		CD569F4F1C34C9B800A6A5C2 /* caochun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caochun.mp3; sourceTree = "<group>"; };
+		CD569F501C34C9B800A6A5C2 /* caohong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caohong.mp3; sourceTree = "<group>"; };
+		CD569F511C34C9B800A6A5C2 /* caopi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caopi.mp3; sourceTree = "<group>"; };
+		CD569F521C34C9B800A6A5C2 /* caoren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caoren.mp3; sourceTree = "<group>"; };
+		CD569F531C34C9B800A6A5C2 /* caorui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caorui.mp3; sourceTree = "<group>"; };
+		CD569F541C34C9B800A6A5C2 /* caoxiu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caoxiu.mp3; sourceTree = "<group>"; };
+		CD569F551C34C9B800A6A5C2 /* caozhen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caozhen.mp3; sourceTree = "<group>"; };
+		CD569F561C34C9B800A6A5C2 /* caozhi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caozhi.mp3; sourceTree = "<group>"; };
+		CD569F571C34C9B800A6A5C2 /* chendao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chendao.mp3; sourceTree = "<group>"; };
+		CD569F581C34C9B800A6A5C2 /* chengong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengong.mp3; sourceTree = "<group>"; };
+		CD569F591C34C9B800A6A5C2 /* chengpu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengpu.mp3; sourceTree = "<group>"; };
+		CD569F5A1C34C9B800A6A5C2 /* chengui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengui.mp3; sourceTree = "<group>"; };
+		CD569F5B1C34C9B800A6A5C2 /* chengyi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengyi.mp3; sourceTree = "<group>"; };
+		CD569F5C1C34C9B800A6A5C2 /* chengyin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengyin.mp3; sourceTree = "<group>"; };
+		CD569F5D1C34C9B800A6A5C2 /* chengyu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chengyu.mp3; sourceTree = "<group>"; };
+		CD569F5E1C34C9B800A6A5C2 /* chenheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenheng.mp3; sourceTree = "<group>"; };
+		CD569F5F1C34C9B800A6A5C2 /* chenjiao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenjiao.mp3; sourceTree = "<group>"; };
+		CD569F601C34C9B800A6A5C2 /* chenlan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenlan.mp3; sourceTree = "<group>"; };
+		CD569F611C34C9B800A6A5C2 /* chenlin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenlin.mp3; sourceTree = "<group>"; };
+		CD569F621C34C9B800A6A5C2 /* chenqun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenqun.mp3; sourceTree = "<group>"; };
+		CD569F631C34C9B800A6A5C2 /* chenwu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chenwu.mp3; sourceTree = "<group>"; };
+		CD569F641C34C9B800A6A5C2 /* dengxian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dengxian.mp3; sourceTree = "<group>"; };
+		CD569F651C34C9B800A6A5C2 /* dianwei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dianwei.mp3; sourceTree = "<group>"; };
+		CD569F661C34C9B800A6A5C2 /* dingfeng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dingfeng.mp3; sourceTree = "<group>"; };
+		CD569F671C34C9B800A6A5C2 /* dongmin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dongmin.mp3; sourceTree = "<group>"; };
+		CD569F681C34C9B800A6A5C2 /* dongyun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dongyun.mp3; sourceTree = "<group>"; };
+		CD569F691C34C9B800A6A5C2 /* dongzhuo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dongzhuo.mp3; sourceTree = "<group>"; };
+		CD569F6A1C34C9B800A6A5C2 /* fanchou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fanchou.mp3; sourceTree = "<group>"; };
+		CD569F6B1C34C9B800A6A5C2 /* fazheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fazheng.mp3; sourceTree = "<group>"; };
+		CD569F6C1C34C9B800A6A5C2 /* feiyi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = feiyi.mp3; sourceTree = "<group>"; };
+		CD569F6D1C34C9B800A6A5C2 /* fuying.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fuying.mp3; sourceTree = "<group>"; };
+		CD569F6E1C34C9B800A6A5C2 /* ganning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ganning.mp3; sourceTree = "<group>"; };
+		CD569F6F1C34C9B800A6A5C2 /* gaoding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gaoding.mp3; sourceTree = "<group>"; };
+		CD569F701C34C9B800A6A5C2 /* gaolan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gaolan.mp3; sourceTree = "<group>"; };
+		CD569F711C34C9B800A6A5C2 /* gaopai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gaopai.mp3; sourceTree = "<group>"; };
+		CD569F721C34C9B800A6A5C2 /* gongsunzan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gongsunzan.mp3; sourceTree = "<group>"; };
+		CD569F731C34C9B800A6A5C2 /* gongzhi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gongzhi.mp3; sourceTree = "<group>"; };
+		CD569F741C34C9B800A6A5C2 /* guanping.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guanping.mp3; sourceTree = "<group>"; };
+		CD569F751C34C9B800A6A5C2 /* guansuo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guansuo.mp3; sourceTree = "<group>"; };
+		CD569F761C34C9B800A6A5C2 /* guanxing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guanxing.mp3; sourceTree = "<group>"; };
+		CD569F771C34C9B800A6A5C2 /* guanyu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guanyu.mp3; sourceTree = "<group>"; };
+		CD569F781C34C9B800A6A5C2 /* guohuai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guohuai.mp3; sourceTree = "<group>"; };
+		CD569F791C34C9B800A6A5C2 /* guojia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guojia.mp3; sourceTree = "<group>"; };
+		CD569F7A1C34C9B800A6A5C2 /* guosi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guosi.mp3; sourceTree = "<group>"; };
+		CD569F7B1C34C9B800A6A5C2 /* guotu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guotu.mp3; sourceTree = "<group>"; };
+		CD569F7C1C34C9B800A6A5C2 /* guoyouzhi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guoyouzhi.mp3; sourceTree = "<group>"; };
+		CD569F7D1C34C9B800A6A5C2 /* guyong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guyong.mp3; sourceTree = "<group>"; };
+		CD569F7E1C34C9B800A6A5C2 /* handang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = handang.mp3; sourceTree = "<group>"; };
+		CD569F7F1C34C9B800A6A5C2 /* hansui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hansui.mp3; sourceTree = "<group>"; };
+		CD569F801C34C9B800A6A5C2 /* hanxian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hanxian.mp3; sourceTree = "<group>"; };
+		CD569F811C34C9B800A6A5C2 /* hanxuan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hanxuan.mp3; sourceTree = "<group>"; };
+		CD569F821C34C9B800A6A5C2 /* haozhao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = haozhao.mp3; sourceTree = "<group>"; };
+		CD569F831C34C9B800A6A5C2 /* houcheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = houcheng.mp3; sourceTree = "<group>"; };
+		CD569F841C34C9B800A6A5C2 /* huanggai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huanggai.mp3; sourceTree = "<group>"; };
+		CD569F851C34C9B800A6A5C2 /* huangquan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huangquan.mp3; sourceTree = "<group>"; };
+		CD569F861C34C9B800A6A5C2 /* huangzhong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huangzhong.mp3; sourceTree = "<group>"; };
+		CD569F871C34C9B800A6A5C2 /* huangzu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huangzu.mp3; sourceTree = "<group>"; };
+		CD569F881C34C9B800A6A5C2 /* huaxin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huaxin.mp3; sourceTree = "<group>"; };
+		CD569F891C34C9B800A6A5C2 /* huaxiong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huaxiong.mp3; sourceTree = "<group>"; };
+		CD569F8A1C34C9B800A6A5C2 /* huzun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = huzun.mp3; sourceTree = "<group>"; };
+		CD569F8B1C34C9B800A6A5C2 /* jiakui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiakui.mp3; sourceTree = "<group>"; };
+		CD569F8C1C34C9B800A6A5C2 /* jianggan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jianggan.mp3; sourceTree = "<group>"; };
+		CD569F8D1C34C9B800A6A5C2 /* jiangqin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiangqin.mp3; sourceTree = "<group>"; };
+		CD569F8E1C34C9B800A6A5C2 /* jiangshu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiangshu.mp3; sourceTree = "<group>"; };
+		CD569F8F1C34C9B800A6A5C2 /* jiangwan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiangwan.mp3; sourceTree = "<group>"; };
+		CD569F901C34C9B800A6A5C2 /* jiangwei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiangwei.mp3; sourceTree = "<group>"; };
+		CD569F911C34C9B800A6A5C2 /* jianyong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jianyong.mp3; sourceTree = "<group>"; };
+		CD569F921C34C9B800A6A5C2 /* jiaxu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiaxu.mp3; sourceTree = "<group>"; };
+		CD569F931C34C9B800A6A5C2 /* jiling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jiling.mp3; sourceTree = "<group>"; };
+		CD569F941C34C9B800A6A5C2 /* jinxuan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jinxuan.mp3; sourceTree = "<group>"; };
+		CD569F951C34C9B800A6A5C2 /* jushou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jushou.mp3; sourceTree = "<group>"; };
+		CD569F961C34C9B800A6A5C2 /* kanze.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kanze.mp3; sourceTree = "<group>"; };
+		CD569F971C34C9B800A6A5C2 /* kongrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kongrong.mp3; sourceTree = "<group>"; };
+		CD569F981C34C9B800A6A5C2 /* kuaiyue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kuaiyue.mp3; sourceTree = "<group>"; };
+		CD569F991C34C9B800A6A5C2 /* leibo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = leibo.mp3; sourceTree = "<group>"; };
+		CD569F9A1C34C9B800A6A5C2 /* leitong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = leitong.mp3; sourceTree = "<group>"; };
+		CD569F9B1C34C9B800A6A5C2 /* lejin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lejin.mp3; sourceTree = "<group>"; };
+		CD569F9C1C34C9B800A6A5C2 /* liangxing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liangxing.mp3; sourceTree = "<group>"; };
+		CD569F9D1C34C9B800A6A5C2 /* liaohua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liaohua.mp3; sourceTree = "<group>"; };
+		CD569F9E1C34C9B800A6A5C2 /* lidian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lidian.mp3; sourceTree = "<group>"; };
+		CD569F9F1C34C9B800A6A5C2 /* lifeng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lifeng.mp3; sourceTree = "<group>"; };
+		CD569FA01C34C9B800A6A5C2 /* lijue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lijue.mp3; sourceTree = "<group>"; };
+		CD569FA11C34C9B800A6A5C2 /* lingtong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lingtong.mp3; sourceTree = "<group>"; };
+		CD569FA21C34C9B800A6A5C2 /* liru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liru.mp3; sourceTree = "<group>"; };
+		CD569FA31C34C9B800A6A5C2 /* lisu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lisu.mp3; sourceTree = "<group>"; };
+		CD569FA41C34C9B800A6A5C2 /* liuba.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuba.mp3; sourceTree = "<group>"; };
+		CD569FA51C34C9B800A6A5C2 /* liubei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liubei.mp3; sourceTree = "<group>"; };
+		CD569FA61C34C9B800A6A5C2 /* liubiao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liubiao.mp3; sourceTree = "<group>"; };
+		CD569FA71C34C9B800A6A5C2 /* liucong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liucong.mp3; sourceTree = "<group>"; };
+		CD569FA81C34C9B800A6A5C2 /* liudai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liudai.mp3; sourceTree = "<group>"; };
+		CD569FA91C34C9B800A6A5C2 /* liudu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liudu.mp3; sourceTree = "<group>"; };
+		CD569FAA1C34C9B800A6A5C2 /* liufeng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liufeng.mp3; sourceTree = "<group>"; };
+		CD569FAB1C34C9B800A6A5C2 /* liuli.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuli.mp3; sourceTree = "<group>"; };
+		CD569FAC1C34C9B800A6A5C2 /* liuqi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuqi.mp3; sourceTree = "<group>"; };
+		CD569FAD1C34C9B800A6A5C2 /* liushan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liushan.mp3; sourceTree = "<group>"; };
+		CD569FAE1C34C9B800A6A5C2 /* liuxun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuxun.mp3; sourceTree = "<group>"; };
+		CD569FAF1C34C9B800A6A5C2 /* liuyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuyan.mp3; sourceTree = "<group>"; };
+		CD569FB01C34C9B800A6A5C2 /* liuyan1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuyan1.mp3; sourceTree = "<group>"; };
+		CD569FB11C34C9B900A6A5C2 /* liuyao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuyao.mp3; sourceTree = "<group>"; };
+		CD569FB21C34C9B900A6A5C2 /* liuyong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuyong.mp3; sourceTree = "<group>"; };
+		CD569FB31C34C9B900A6A5C2 /* liuzhang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liuzhang.mp3; sourceTree = "<group>"; };
+		CD569FB41C34C9B900A6A5C2 /* liyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = liyan.mp3; sourceTree = "<group>"; };
+		CD569FB51C34C9B900A6A5C2 /* lubu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lubu.mp3; sourceTree = "<group>"; };
+		CD569FB61C34C9B900A6A5C2 /* lufan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lufan.mp3; sourceTree = "<group>"; };
+		CD569FB71C34C9B900A6A5C2 /* luji.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = luji.mp3; sourceTree = "<group>"; };
+		CD569FB81C34C9B900A6A5C2 /* lukai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lukai.mp3; sourceTree = "<group>"; };
+		CD569FB91C34C9B900A6A5C2 /* lukuang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lukuang.mp3; sourceTree = "<group>"; };
+		CD569FBA1C34C9B900A6A5C2 /* lumeng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lumeng.mp3; sourceTree = "<group>"; };
+		CD569FBB1C34C9B900A6A5C2 /* luqian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = luqian.mp3; sourceTree = "<group>"; };
+		CD569FBC1C34C9B900A6A5C2 /* lusu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lusu.mp3; sourceTree = "<group>"; };
+		CD569FBD1C34C9B900A6A5C2 /* luxiang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = luxiang.mp3; sourceTree = "<group>"; };
+		CD569FBE1C34C9B900A6A5C2 /* luxun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = luxun.mp3; sourceTree = "<group>"; };
+		CD569FBF1C34C9B900A6A5C2 /* machao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = machao.mp3; sourceTree = "<group>"; };
+		CD569FC01C34C9B900A6A5C2 /* madai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = madai.mp3; sourceTree = "<group>"; };
+		CD569FC11C34C9B900A6A5C2 /* maliang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = maliang.mp3; sourceTree = "<group>"; };
+		CD569FC21C34C9B900A6A5C2 /* manchong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = manchong.mp3; sourceTree = "<group>"; };
+		CD569FC31C34C9B900A6A5C2 /* maojie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = maojie.mp3; sourceTree = "<group>"; };
+		CD569FC41C34C9B900A6A5C2 /* masu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = masu.mp3; sourceTree = "<group>"; };
+		CD569FC51C34C9B900A6A5C2 /* mateng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mateng.mp3; sourceTree = "<group>"; };
+		CD569FC61C34C9B900A6A5C2 /* matie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = matie.mp3; sourceTree = "<group>"; };
+		CD569FC71C34C9B900A6A5C2 /* mawan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mawan.mp3; sourceTree = "<group>"; };
+		CD569FC81C34C9B900A6A5C2 /* maxiu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = maxiu.mp3; sourceTree = "<group>"; };
+		CD569FC91C34C9B900A6A5C2 /* mengda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mengda.mp3; sourceTree = "<group>"; };
+		CD569FCA1C34C9B900A6A5C2 /* menghuo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = menghuo.mp3; sourceTree = "<group>"; };
+		CD569FCB1C34C9B900A6A5C2 /* mengyou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mengyou.mp3; sourceTree = "<group>"; };
+		CD569FCC1C34C9B900A6A5C2 /* mifang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mifang.mp3; sourceTree = "<group>"; };
+		CD569FCD1C34C9B900A6A5C2 /* mizhu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mizhu.mp3; sourceTree = "<group>"; };
+		CD569FCE1C34C9B900A6A5C2 /* niujin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = niujin.mp3; sourceTree = "<group>"; };
+		CD569FCF1C34C9B900A6A5C2 /* pangde.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pangde.mp3; sourceTree = "<group>"; };
+		CD569FD01C34C9B900A6A5C2 /* pangtong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pangtong.mp3; sourceTree = "<group>"; };
+		CD569FD11C34C9B900A6A5C2 /* panzhang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = panzhang.mp3; sourceTree = "<group>"; };
+		CD569FD21C34C9B900A6A5C2 /* peiyuanshao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = peiyuanshao.mp3; sourceTree = "<group>"; };
+		CD569FD31C34C9B900A6A5C2 /* qiaozhou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = qiaozhou.mp3; sourceTree = "<group>"; };
+		CD569FD41C34C9B900A6A5C2 /* quancong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = quancong.mp3; sourceTree = "<group>"; };
+		CD569FD51C34C9B900A6A5C2 /* shamoke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shamoke.mp3; sourceTree = "<group>"; };
+		CD569FD61C34C9B900A6A5C2 /* shenpai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shenpai.mp3; sourceTree = "<group>"; };
+		CD569FD71C34C9B900A6A5C2 /* shiren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shiren.mp3; sourceTree = "<group>"; };
+		CD569FD81C34C9B900A6A5C2 /* simashi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = simashi.mp3; sourceTree = "<group>"; };
+		CD569FD91C34C9B900A6A5C2 /* simayi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = simayi.mp3; sourceTree = "<group>"; };
+		CD569FDA1C34C9B900A6A5C2 /* simazhao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = simazhao.mp3; sourceTree = "<group>"; };
+		CD569FDB1C34C9B900A6A5C2 /* songxian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = songxian.mp3; sourceTree = "<group>"; };
+		CD569FDC1C34C9B900A6A5C2 /* sunce.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunce.mp3; sourceTree = "<group>"; };
+		CD569FDD1C34C9B900A6A5C2 /* sunhuan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunhuan.mp3; sourceTree = "<group>"; };
+		CD569FDE1C34C9B900A6A5C2 /* sunjian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunjian.mp3; sourceTree = "<group>"; };
+		CD569FDF1C34C9B900A6A5C2 /* sunquan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunquan.mp3; sourceTree = "<group>"; };
+		CD569FE01C34C9B900A6A5C2 /* sunyi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunyi.mp3; sourceTree = "<group>"; };
+		CD569FE11C34C9B900A6A5C2 /* sunyu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunyu.mp3; sourceTree = "<group>"; };
+		CD569FE21C34C9B900A6A5C2 /* taishici.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = taishici.mp3; sourceTree = "<group>"; };
+		CD569FE31C34C9B900A6A5C2 /* tangzi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tangzi.mp3; sourceTree = "<group>"; };
+		CD569FE41C34C9B900A6A5C2 /* tianchou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tianchou.mp3; sourceTree = "<group>"; };
+		CD569FE51C34C9B900A6A5C2 /* wangcan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wangcan.mp3; sourceTree = "<group>"; };
+		CD569FE61C34C9B900A6A5C2 /* wanglang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wanglang.mp3; sourceTree = "<group>"; };
+		CD569FE71C34C9B900A6A5C2 /* wanglei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wanglei.mp3; sourceTree = "<group>"; };
+		CD569FE81C34C9B900A6A5C2 /* wangping.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wangping.mp3; sourceTree = "<group>"; };
+		CD569FE91C34C9B900A6A5C2 /* wangshuang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wangshuang.mp3; sourceTree = "<group>"; };
+		CD569FEA1C34C9B900A6A5C2 /* weixu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = weixu.mp3; sourceTree = "<group>"; };
+		CD569FEB1C34C9B900A6A5C2 /* weiyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = weiyan.mp3; sourceTree = "<group>"; };
+		CD569FEC1C34C9B900A6A5C2 /* wenchou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wenchou.mp3; sourceTree = "<group>"; };
+		CD569FED1C34C9B900A6A5C2 /* wenpin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wenpin.mp3; sourceTree = "<group>"; };
+		CD569FEE1C34C9B900A6A5C2 /* wuban.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wuban.mp3; sourceTree = "<group>"; };
+		CD569FEF1C34C9B900A6A5C2 /* wulan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wulan.mp3; sourceTree = "<group>"; };
+		CD569FF01C34C9B900A6A5C2 /* wuyi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wuyi.mp3; sourceTree = "<group>"; };
+		CD569FF11C34C9B900A6A5C2 /* xiahoude.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiahoude.mp3; sourceTree = "<group>"; };
+		CD569FF21C34C9B900A6A5C2 /* xiahoudun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiahoudun.mp3; sourceTree = "<group>"; };
+		CD569FF31C34C9B900A6A5C2 /* xiahoumao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiahoumao.mp3; sourceTree = "<group>"; };
+		CD569FF41C34C9B900A6A5C2 /* xiahoushang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiahoushang.mp3; sourceTree = "<group>"; };
+		CD569FF51C34C9B900A6A5C2 /* xiahouyuan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiahouyuan.mp3; sourceTree = "<group>"; };
+		CD569FF61C34C9B900A6A5C2 /* xiangchong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xiangchong.mp3; sourceTree = "<group>"; };
+		CD569FF71C34C9B900A6A5C2 /* xingdaorong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xingdaorong.mp3; sourceTree = "<group>"; };
+		CD569FF81C34C9B900A6A5C2 /* xinpi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xinpi.mp3; sourceTree = "<group>"; };
+		CD569FF91C34C9B900A6A5C2 /* xuchu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xuchu.mp3; sourceTree = "<group>"; };
+		CD569FFA1C34C9B900A6A5C2 /* xueying.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xueying.mp3; sourceTree = "<group>"; };
+		CD569FFB1C34C9B900A6A5C2 /* xugong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xugong.mp3; sourceTree = "<group>"; };
+		CD569FFC1C34C9B900A6A5C2 /* xuhuang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xuhuang.mp3; sourceTree = "<group>"; };
+		CD569FFD1C34C9B900A6A5C2 /* xujing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xujing.mp3; sourceTree = "<group>"; };
+		CD569FFE1C34C9B900A6A5C2 /* xunyou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xunyou.mp3; sourceTree = "<group>"; };
+		CD569FFF1C34C9B900A6A5C2 /* xunyu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xunyu.mp3; sourceTree = "<group>"; };
+		CD56A0001C34C9B900A6A5C2 /* xurong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xurong.mp3; sourceTree = "<group>"; };
+		CD56A0011C34C9B900A6A5C2 /* xusheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xusheng.mp3; sourceTree = "<group>"; };
+		CD56A0021C34C9B900A6A5C2 /* xushu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = xushu.mp3; sourceTree = "<group>"; };
+		CD56A0031C34C9B900A6A5C2 /* yangbiao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yangbiao.mp3; sourceTree = "<group>"; };
+		CD56A0041C34C9B900A6A5C2 /* yangfeng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yangfeng.mp3; sourceTree = "<group>"; };
+		CD56A0051C34C9B900A6A5C2 /* yanghuai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yanghuai.mp3; sourceTree = "<group>"; };
+		CD56A0061C34C9B900A6A5C2 /* yangqiu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yangqiu.mp3; sourceTree = "<group>"; };
+		CD56A0071C34C9B900A6A5C2 /* yangsong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yangsong.mp3; sourceTree = "<group>"; };
+		CD56A0081C34C9B900A6A5C2 /* yangyi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yangyi.mp3; sourceTree = "<group>"; };
+		CD56A0091C34C9B900A6A5C2 /* yanjun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yanjun.mp3; sourceTree = "<group>"; };
+		CD56A00A1C34C9B900A6A5C2 /* yanliang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yanliang.mp3; sourceTree = "<group>"; };
+		CD56A00B1C34C9B900A6A5C2 /* yanpu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yanpu.mp3; sourceTree = "<group>"; };
+		CD56A00C1C34C9B900A6A5C2 /* yanyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yanyan.mp3; sourceTree = "<group>"; };
+		CD56A00D1C34C9B900A6A5C2 /* yiji.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yiji.mp3; sourceTree = "<group>"; };
+		CD56A00E1C34C9B900A6A5C2 /* yongkai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yongkai.mp3; sourceTree = "<group>"; };
+		CD56A00F1C34C9B900A6A5C2 /* yuanshang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuanshang.mp3; sourceTree = "<group>"; };
+		CD56A0101C34C9B900A6A5C2 /* yuanshao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuanshao.mp3; sourceTree = "<group>"; };
+		CD56A0111C34C9B900A6A5C2 /* yuanshu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuanshu.mp3; sourceTree = "<group>"; };
+		CD56A0121C34C9B900A6A5C2 /* yuantan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuantan.mp3; sourceTree = "<group>"; };
+		CD56A0131C34C9B900A6A5C2 /* yuanxi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuanxi.mp3; sourceTree = "<group>"; };
+		CD56A0141C34C9B900A6A5C2 /* yuanyin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yuanyin.mp3; sourceTree = "<group>"; };
+		CD56A0151C34C9B900A6A5C2 /* yufan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yufan.mp3; sourceTree = "<group>"; };
+		CD56A0161C34C9B900A6A5C2 /* yujin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yujin.mp3; sourceTree = "<group>"; };
+		CD56A0171C34C9B900A6A5C2 /* zhangbao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangbao.mp3; sourceTree = "<group>"; };
+		CD56A0181C34C9B900A6A5C2 /* zhangfei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangfei.mp3; sourceTree = "<group>"; };
+		CD56A0191C34C9B900A6A5C2 /* zhangheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangheng.mp3; sourceTree = "<group>"; };
+		CD56A01A1C34C9B900A6A5C2 /* zhangji3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangji3.mp3; sourceTree = "<group>"; };
+		CD56A01B1C34C9B900A6A5C2 /* zhangji4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangji4.mp3; sourceTree = "<group>"; };
+		CD56A01C1C34C9B900A6A5C2 /* zhangliao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangliao.mp3; sourceTree = "<group>"; };
+		CD56A01D1C34C9B900A6A5C2 /* zhanglu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhanglu.mp3; sourceTree = "<group>"; };
+		CD56A01E1C34C9B900A6A5C2 /* zhangmiao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangmiao.mp3; sourceTree = "<group>"; };
+		CD56A01F1C34C9B900A6A5C2 /* zhangren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangren.mp3; sourceTree = "<group>"; };
+		CD56A0201C34C9B900A6A5C2 /* zhangshao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangshao.mp3; sourceTree = "<group>"; };
+		CD56A0211C34C9B900A6A5C2 /* zhangxiu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangxiu.mp3; sourceTree = "<group>"; };
+		CD56A0221C34C9B900A6A5C2 /* zhangxun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangxun.mp3; sourceTree = "<group>"; };
+		CD56A0231C34C9B900A6A5C2 /* zhangying.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangying.mp3; sourceTree = "<group>"; };
+		CD56A0241C34C9B900A6A5C2 /* zhangyun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhangyun.mp3; sourceTree = "<group>"; };
+		CD56A0251C34C9B900A6A5C2 /* zhaofan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhaofan.mp3; sourceTree = "<group>"; };
+		CD56A0261C34C9B900A6A5C2 /* zhaoguang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhaoguang.mp3; sourceTree = "<group>"; };
+		CD56A0271C34C9B900A6A5C2 /* zhaoyun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhaoyun.mp3; sourceTree = "<group>"; };
+		CD56A0281C34C9B900A6A5C2 /* zhongyao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhongyao.mp3; sourceTree = "<group>"; };
+		CD56A0291C34C9B900A6A5C2 /* zhoucang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhoucang.mp3; sourceTree = "<group>"; };
+		CD56A02A1C34C9B900A6A5C2 /* zhoutai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhoutai.mp3; sourceTree = "<group>"; };
+		CD56A02B1C34C9B900A6A5C2 /* zhouyu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhouyu.mp3; sourceTree = "<group>"; };
+		CD56A02C1C34C9B900A6A5C2 /* zhubao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhubao.mp3; sourceTree = "<group>"; };
+		CD56A02D1C34C9B900A6A5C2 /* zhugedan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhugedan.mp3; sourceTree = "<group>"; };
+		CD56A02E1C34C9B900A6A5C2 /* zhugejin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhugejin.mp3; sourceTree = "<group>"; };
+		CD56A02F1C34C9B900A6A5C2 /* zhugejun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhugejun.mp3; sourceTree = "<group>"; };
+		CD56A0301C34C9B900A6A5C2 /* zhugeke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhugeke.mp3; sourceTree = "<group>"; };
+		CD56A0311C34C9B900A6A5C2 /* zhugeliang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhugeliang.mp3; sourceTree = "<group>"; };
+		CD56A0321C34C9B900A6A5C2 /* zhuhuan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhuhuan.mp3; sourceTree = "<group>"; };
+		CD56A0331C34C9B900A6A5C2 /* zhujun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhujun.mp3; sourceTree = "<group>"; };
+		CD56A0341C34C9B900A6A5C2 /* zhuling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhuling.mp3; sourceTree = "<group>"; };
+		CD56A0351C34C9B900A6A5C2 /* zhuzhi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zhuzhi.mp3; sourceTree = "<group>"; };
+		CD56A1261C34F31200A6A5C2 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		CD56A1281C34F9AA00A6A5C2 /* bg_img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg_img.png; path = ../../../../Desktop/bg_img.png; sourceTree = "<group>"; };
+		CD56A12C1C351A7A00A6A5C2 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = twitter.png; path = ../../../../Downloads/twitter.png; sourceTree = "<group>"; };
+		CD872C0F1C3437E100363A3A /* Person.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Person.plist; sourceTree = "<group>"; };
+		CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg_img_result.png; path = ../../../../Desktop/bg_img_result.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +590,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD56A1271C34F31200A6A5C2 /* Social.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +614,7 @@
 		CD0DECAF1BE869080068E77E = {
 			isa = PBXGroup;
 			children = (
+				CD56A1261C34F31200A6A5C2 /* Social.framework */,
 				CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */,
 				CD0DECCF1BE869080068E77E /* hatsuon_sangokushiTests */,
 				CD0DECDA1BE869080068E77E /* hatsuon_sangokushiUITests */,
@@ -167,17 +635,18 @@
 		CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */ = {
 			isa = PBXGroup;
 			children = (
+				CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */,
+				CD56A12C1C351A7A00A6A5C2 /* twitter.png */,
+				CD56A1281C34F9AA00A6A5C2 /* bg_img.png */,
+				CD872C0F1C3437E100363A3A /* Person.plist */,
+				CD1922551BF70621006E7F9A /* icon */,
 				CD19223C1BF6CE60006E7F9A /* komei */,
 				CD0DED491BE86BA70068E77E /* MDColor.swift */,
-				CD0DED471BE86B7A0068E77E /* Person.plist */,
 				CD0DED281BE86B110068E77E /* mp3 */,
 				CD0DECBB1BE869080068E77E /* AppDelegate.swift */,
 				CD0DECBD1BE869080068E77E /* ViewController.swift */,
 				CD0DECBF1BE869080068E77E /* Main.storyboard */,
 				CD1922201BF39BB1006E7F9A /* title.pdf */,
-				CD0DED531BEF75970068E77E /* bg_3.jpg */,
-				CD0DED511BEECF690068E77E /* bg_2.jpg */,
-				CD0DED4F1BEECE260068E77E /* bg.jpg */,
 				CD0DED4D1BE88A940068E77E /* Extension.swift */,
 				CD0DED4B1BE87F790068E77E /* Button_Custom.swift */,
 				CD0DECE91BE869CC0068E77E /* QuizViewController.swift */,
@@ -210,20 +679,246 @@
 		CD0DED281BE86B110068E77E /* mp3 */ = {
 			isa = PBXGroup;
 			children = (
-				CD0DED291BE86B4F0068E77E /* iseki.mp3 */,
-				CD0DED2A1BE86B4F0068E77E /* kakouen.mp3 */,
-				CD0DED2B1BE86B4F0068E77E /* kakousyou.mp3 */,
-				CD0DED2C1BE86B4F0068E77E /* kakoutoku.mp3 */,
-				CD0DED2D1BE86B4F0068E77E /* kakouton.mp3 */,
-				CD0DED2E1BE86B4F0068E77E /* kouchu.mp3 */,
-				CD0DED2F1BE86B4F0068E77E /* kougai.mp3 */,
-				CD0DED301BE86B4F0068E77E /* kouken.mp3 */,
-				CD0DED311BE86B4F0068E77E /* kouso.mp3 */,
-				CD0DED321BE86B4F0068E77E /* ouhei.mp3 */,
-				CD0DED331BE86B4F0068E77E /* ourou.mp3 */,
-				CD0DED341BE86B4F0068E77E /* ourui.mp3 */,
-				CD0DED351BE86B4F0068E77E /* ousan.mp3 */,
-				CD0DED361BE86B4F0068E77E /* ousou.mp3 */,
+				CD569F461C34C9B800A6A5C2 /* baolong.mp3 */,
+				CD569F471C34C9B800A6A5C2 /* baoxin.mp3 */,
+				CD569F481C34C9B800A6A5C2 /* buzhi.mp3 */,
+				CD569F491C34C9B800A6A5C2 /* caihe.mp3 */,
+				CD569F4A1C34C9B800A6A5C2 /* caimao.mp3 */,
+				CD569F4B1C34C9B800A6A5C2 /* caizhong.mp3 */,
+				CD569F4C1C34C9B800A6A5C2 /* caoang.mp3 */,
+				CD569F4D1C34C9B800A6A5C2 /* caobao.mp3 */,
+				CD569F4E1C34C9B800A6A5C2 /* caocao.mp3 */,
+				CD569F4F1C34C9B800A6A5C2 /* caochun.mp3 */,
+				CD569F501C34C9B800A6A5C2 /* caohong.mp3 */,
+				CD569F511C34C9B800A6A5C2 /* caopi.mp3 */,
+				CD569F521C34C9B800A6A5C2 /* caoren.mp3 */,
+				CD569F531C34C9B800A6A5C2 /* caorui.mp3 */,
+				CD569F541C34C9B800A6A5C2 /* caoxiu.mp3 */,
+				CD569F551C34C9B800A6A5C2 /* caozhen.mp3 */,
+				CD569F561C34C9B800A6A5C2 /* caozhi.mp3 */,
+				CD569F571C34C9B800A6A5C2 /* chendao.mp3 */,
+				CD569F581C34C9B800A6A5C2 /* chengong.mp3 */,
+				CD569F591C34C9B800A6A5C2 /* chengpu.mp3 */,
+				CD569F5A1C34C9B800A6A5C2 /* chengui.mp3 */,
+				CD569F5B1C34C9B800A6A5C2 /* chengyi.mp3 */,
+				CD569F5C1C34C9B800A6A5C2 /* chengyin.mp3 */,
+				CD569F5D1C34C9B800A6A5C2 /* chengyu.mp3 */,
+				CD569F5E1C34C9B800A6A5C2 /* chenheng.mp3 */,
+				CD569F5F1C34C9B800A6A5C2 /* chenjiao.mp3 */,
+				CD569F601C34C9B800A6A5C2 /* chenlan.mp3 */,
+				CD569F611C34C9B800A6A5C2 /* chenlin.mp3 */,
+				CD569F621C34C9B800A6A5C2 /* chenqun.mp3 */,
+				CD569F631C34C9B800A6A5C2 /* chenwu.mp3 */,
+				CD569F641C34C9B800A6A5C2 /* dengxian.mp3 */,
+				CD569F651C34C9B800A6A5C2 /* dianwei.mp3 */,
+				CD569F661C34C9B800A6A5C2 /* dingfeng.mp3 */,
+				CD569F671C34C9B800A6A5C2 /* dongmin.mp3 */,
+				CD569F681C34C9B800A6A5C2 /* dongyun.mp3 */,
+				CD569F691C34C9B800A6A5C2 /* dongzhuo.mp3 */,
+				CD569F6A1C34C9B800A6A5C2 /* fanchou.mp3 */,
+				CD569F6B1C34C9B800A6A5C2 /* fazheng.mp3 */,
+				CD569F6C1C34C9B800A6A5C2 /* feiyi.mp3 */,
+				CD569F6D1C34C9B800A6A5C2 /* fuying.mp3 */,
+				CD569F6E1C34C9B800A6A5C2 /* ganning.mp3 */,
+				CD569F6F1C34C9B800A6A5C2 /* gaoding.mp3 */,
+				CD569F701C34C9B800A6A5C2 /* gaolan.mp3 */,
+				CD569F711C34C9B800A6A5C2 /* gaopai.mp3 */,
+				CD569F721C34C9B800A6A5C2 /* gongsunzan.mp3 */,
+				CD569F731C34C9B800A6A5C2 /* gongzhi.mp3 */,
+				CD569F741C34C9B800A6A5C2 /* guanping.mp3 */,
+				CD569F751C34C9B800A6A5C2 /* guansuo.mp3 */,
+				CD569F761C34C9B800A6A5C2 /* guanxing.mp3 */,
+				CD569F771C34C9B800A6A5C2 /* guanyu.mp3 */,
+				CD569F781C34C9B800A6A5C2 /* guohuai.mp3 */,
+				CD569F791C34C9B800A6A5C2 /* guojia.mp3 */,
+				CD569F7A1C34C9B800A6A5C2 /* guosi.mp3 */,
+				CD569F7B1C34C9B800A6A5C2 /* guotu.mp3 */,
+				CD569F7C1C34C9B800A6A5C2 /* guoyouzhi.mp3 */,
+				CD569F7D1C34C9B800A6A5C2 /* guyong.mp3 */,
+				CD569F7E1C34C9B800A6A5C2 /* handang.mp3 */,
+				CD569F7F1C34C9B800A6A5C2 /* hansui.mp3 */,
+				CD569F801C34C9B800A6A5C2 /* hanxian.mp3 */,
+				CD569F811C34C9B800A6A5C2 /* hanxuan.mp3 */,
+				CD569F821C34C9B800A6A5C2 /* haozhao.mp3 */,
+				CD569F831C34C9B800A6A5C2 /* houcheng.mp3 */,
+				CD569F841C34C9B800A6A5C2 /* huanggai.mp3 */,
+				CD569F851C34C9B800A6A5C2 /* huangquan.mp3 */,
+				CD569F861C34C9B800A6A5C2 /* huangzhong.mp3 */,
+				CD569F871C34C9B800A6A5C2 /* huangzu.mp3 */,
+				CD569F881C34C9B800A6A5C2 /* huaxin.mp3 */,
+				CD569F891C34C9B800A6A5C2 /* huaxiong.mp3 */,
+				CD569F8A1C34C9B800A6A5C2 /* huzun.mp3 */,
+				CD569F8B1C34C9B800A6A5C2 /* jiakui.mp3 */,
+				CD569F8C1C34C9B800A6A5C2 /* jianggan.mp3 */,
+				CD569F8D1C34C9B800A6A5C2 /* jiangqin.mp3 */,
+				CD569F8E1C34C9B800A6A5C2 /* jiangshu.mp3 */,
+				CD569F8F1C34C9B800A6A5C2 /* jiangwan.mp3 */,
+				CD569F901C34C9B800A6A5C2 /* jiangwei.mp3 */,
+				CD569F911C34C9B800A6A5C2 /* jianyong.mp3 */,
+				CD569F921C34C9B800A6A5C2 /* jiaxu.mp3 */,
+				CD569F931C34C9B800A6A5C2 /* jiling.mp3 */,
+				CD569F941C34C9B800A6A5C2 /* jinxuan.mp3 */,
+				CD569F951C34C9B800A6A5C2 /* jushou.mp3 */,
+				CD569F961C34C9B800A6A5C2 /* kanze.mp3 */,
+				CD569F971C34C9B800A6A5C2 /* kongrong.mp3 */,
+				CD569F981C34C9B800A6A5C2 /* kuaiyue.mp3 */,
+				CD569F991C34C9B800A6A5C2 /* leibo.mp3 */,
+				CD569F9A1C34C9B800A6A5C2 /* leitong.mp3 */,
+				CD569F9B1C34C9B800A6A5C2 /* lejin.mp3 */,
+				CD569F9C1C34C9B800A6A5C2 /* liangxing.mp3 */,
+				CD569F9D1C34C9B800A6A5C2 /* liaohua.mp3 */,
+				CD569F9E1C34C9B800A6A5C2 /* lidian.mp3 */,
+				CD569F9F1C34C9B800A6A5C2 /* lifeng.mp3 */,
+				CD569FA01C34C9B800A6A5C2 /* lijue.mp3 */,
+				CD569FA11C34C9B800A6A5C2 /* lingtong.mp3 */,
+				CD569FA21C34C9B800A6A5C2 /* liru.mp3 */,
+				CD569FA31C34C9B800A6A5C2 /* lisu.mp3 */,
+				CD569FA41C34C9B800A6A5C2 /* liuba.mp3 */,
+				CD569FA51C34C9B800A6A5C2 /* liubei.mp3 */,
+				CD569FA61C34C9B800A6A5C2 /* liubiao.mp3 */,
+				CD569FA71C34C9B800A6A5C2 /* liucong.mp3 */,
+				CD569FA81C34C9B800A6A5C2 /* liudai.mp3 */,
+				CD569FA91C34C9B800A6A5C2 /* liudu.mp3 */,
+				CD569FAA1C34C9B800A6A5C2 /* liufeng.mp3 */,
+				CD569FAB1C34C9B800A6A5C2 /* liuli.mp3 */,
+				CD569FAC1C34C9B800A6A5C2 /* liuqi.mp3 */,
+				CD569FAD1C34C9B800A6A5C2 /* liushan.mp3 */,
+				CD569FAE1C34C9B800A6A5C2 /* liuxun.mp3 */,
+				CD569FAF1C34C9B800A6A5C2 /* liuyan.mp3 */,
+				CD569FB01C34C9B800A6A5C2 /* liuyan1.mp3 */,
+				CD569FB11C34C9B900A6A5C2 /* liuyao.mp3 */,
+				CD569FB21C34C9B900A6A5C2 /* liuyong.mp3 */,
+				CD569FB31C34C9B900A6A5C2 /* liuzhang.mp3 */,
+				CD569FB41C34C9B900A6A5C2 /* liyan.mp3 */,
+				CD569FB51C34C9B900A6A5C2 /* lubu.mp3 */,
+				CD569FB61C34C9B900A6A5C2 /* lufan.mp3 */,
+				CD569FB71C34C9B900A6A5C2 /* luji.mp3 */,
+				CD569FB81C34C9B900A6A5C2 /* lukai.mp3 */,
+				CD569FB91C34C9B900A6A5C2 /* lukuang.mp3 */,
+				CD569FBA1C34C9B900A6A5C2 /* lumeng.mp3 */,
+				CD569FBB1C34C9B900A6A5C2 /* luqian.mp3 */,
+				CD569FBC1C34C9B900A6A5C2 /* lusu.mp3 */,
+				CD569FBD1C34C9B900A6A5C2 /* luxiang.mp3 */,
+				CD569FBE1C34C9B900A6A5C2 /* luxun.mp3 */,
+				CD569FBF1C34C9B900A6A5C2 /* machao.mp3 */,
+				CD569FC01C34C9B900A6A5C2 /* madai.mp3 */,
+				CD569FC11C34C9B900A6A5C2 /* maliang.mp3 */,
+				CD569FC21C34C9B900A6A5C2 /* manchong.mp3 */,
+				CD569FC31C34C9B900A6A5C2 /* maojie.mp3 */,
+				CD569FC41C34C9B900A6A5C2 /* masu.mp3 */,
+				CD569FC51C34C9B900A6A5C2 /* mateng.mp3 */,
+				CD569FC61C34C9B900A6A5C2 /* matie.mp3 */,
+				CD569FC71C34C9B900A6A5C2 /* mawan.mp3 */,
+				CD569FC81C34C9B900A6A5C2 /* maxiu.mp3 */,
+				CD569FC91C34C9B900A6A5C2 /* mengda.mp3 */,
+				CD569FCA1C34C9B900A6A5C2 /* menghuo.mp3 */,
+				CD569FCB1C34C9B900A6A5C2 /* mengyou.mp3 */,
+				CD569FCC1C34C9B900A6A5C2 /* mifang.mp3 */,
+				CD569FCD1C34C9B900A6A5C2 /* mizhu.mp3 */,
+				CD569FCE1C34C9B900A6A5C2 /* niujin.mp3 */,
+				CD569FCF1C34C9B900A6A5C2 /* pangde.mp3 */,
+				CD569FD01C34C9B900A6A5C2 /* pangtong.mp3 */,
+				CD569FD11C34C9B900A6A5C2 /* panzhang.mp3 */,
+				CD569FD21C34C9B900A6A5C2 /* peiyuanshao.mp3 */,
+				CD569FD31C34C9B900A6A5C2 /* qiaozhou.mp3 */,
+				CD569FD41C34C9B900A6A5C2 /* quancong.mp3 */,
+				CD569FD51C34C9B900A6A5C2 /* shamoke.mp3 */,
+				CD569FD61C34C9B900A6A5C2 /* shenpai.mp3 */,
+				CD569FD71C34C9B900A6A5C2 /* shiren.mp3 */,
+				CD569FD81C34C9B900A6A5C2 /* simashi.mp3 */,
+				CD569FD91C34C9B900A6A5C2 /* simayi.mp3 */,
+				CD569FDA1C34C9B900A6A5C2 /* simazhao.mp3 */,
+				CD569FDB1C34C9B900A6A5C2 /* songxian.mp3 */,
+				CD569FDC1C34C9B900A6A5C2 /* sunce.mp3 */,
+				CD569FDD1C34C9B900A6A5C2 /* sunhuan.mp3 */,
+				CD569FDE1C34C9B900A6A5C2 /* sunjian.mp3 */,
+				CD569FDF1C34C9B900A6A5C2 /* sunquan.mp3 */,
+				CD569FE01C34C9B900A6A5C2 /* sunyi.mp3 */,
+				CD569FE11C34C9B900A6A5C2 /* sunyu.mp3 */,
+				CD569FE21C34C9B900A6A5C2 /* taishici.mp3 */,
+				CD569FE31C34C9B900A6A5C2 /* tangzi.mp3 */,
+				CD569FE41C34C9B900A6A5C2 /* tianchou.mp3 */,
+				CD569FE51C34C9B900A6A5C2 /* wangcan.mp3 */,
+				CD569FE61C34C9B900A6A5C2 /* wanglang.mp3 */,
+				CD569FE71C34C9B900A6A5C2 /* wanglei.mp3 */,
+				CD569FE81C34C9B900A6A5C2 /* wangping.mp3 */,
+				CD569FE91C34C9B900A6A5C2 /* wangshuang.mp3 */,
+				CD569FEA1C34C9B900A6A5C2 /* weixu.mp3 */,
+				CD569FEB1C34C9B900A6A5C2 /* weiyan.mp3 */,
+				CD569FEC1C34C9B900A6A5C2 /* wenchou.mp3 */,
+				CD569FED1C34C9B900A6A5C2 /* wenpin.mp3 */,
+				CD569FEE1C34C9B900A6A5C2 /* wuban.mp3 */,
+				CD569FEF1C34C9B900A6A5C2 /* wulan.mp3 */,
+				CD569FF01C34C9B900A6A5C2 /* wuyi.mp3 */,
+				CD569FF11C34C9B900A6A5C2 /* xiahoude.mp3 */,
+				CD569FF21C34C9B900A6A5C2 /* xiahoudun.mp3 */,
+				CD569FF31C34C9B900A6A5C2 /* xiahoumao.mp3 */,
+				CD569FF41C34C9B900A6A5C2 /* xiahoushang.mp3 */,
+				CD569FF51C34C9B900A6A5C2 /* xiahouyuan.mp3 */,
+				CD569FF61C34C9B900A6A5C2 /* xiangchong.mp3 */,
+				CD569FF71C34C9B900A6A5C2 /* xingdaorong.mp3 */,
+				CD569FF81C34C9B900A6A5C2 /* xinpi.mp3 */,
+				CD569FF91C34C9B900A6A5C2 /* xuchu.mp3 */,
+				CD569FFA1C34C9B900A6A5C2 /* xueying.mp3 */,
+				CD569FFB1C34C9B900A6A5C2 /* xugong.mp3 */,
+				CD569FFC1C34C9B900A6A5C2 /* xuhuang.mp3 */,
+				CD569FFD1C34C9B900A6A5C2 /* xujing.mp3 */,
+				CD569FFE1C34C9B900A6A5C2 /* xunyou.mp3 */,
+				CD569FFF1C34C9B900A6A5C2 /* xunyu.mp3 */,
+				CD56A0001C34C9B900A6A5C2 /* xurong.mp3 */,
+				CD56A0011C34C9B900A6A5C2 /* xusheng.mp3 */,
+				CD56A0021C34C9B900A6A5C2 /* xushu.mp3 */,
+				CD56A0031C34C9B900A6A5C2 /* yangbiao.mp3 */,
+				CD56A0041C34C9B900A6A5C2 /* yangfeng.mp3 */,
+				CD56A0051C34C9B900A6A5C2 /* yanghuai.mp3 */,
+				CD56A0061C34C9B900A6A5C2 /* yangqiu.mp3 */,
+				CD56A0071C34C9B900A6A5C2 /* yangsong.mp3 */,
+				CD56A0081C34C9B900A6A5C2 /* yangyi.mp3 */,
+				CD56A0091C34C9B900A6A5C2 /* yanjun.mp3 */,
+				CD56A00A1C34C9B900A6A5C2 /* yanliang.mp3 */,
+				CD56A00B1C34C9B900A6A5C2 /* yanpu.mp3 */,
+				CD56A00C1C34C9B900A6A5C2 /* yanyan.mp3 */,
+				CD56A00D1C34C9B900A6A5C2 /* yiji.mp3 */,
+				CD56A00E1C34C9B900A6A5C2 /* yongkai.mp3 */,
+				CD56A00F1C34C9B900A6A5C2 /* yuanshang.mp3 */,
+				CD56A0101C34C9B900A6A5C2 /* yuanshao.mp3 */,
+				CD56A0111C34C9B900A6A5C2 /* yuanshu.mp3 */,
+				CD56A0121C34C9B900A6A5C2 /* yuantan.mp3 */,
+				CD56A0131C34C9B900A6A5C2 /* yuanxi.mp3 */,
+				CD56A0141C34C9B900A6A5C2 /* yuanyin.mp3 */,
+				CD56A0151C34C9B900A6A5C2 /* yufan.mp3 */,
+				CD56A0161C34C9B900A6A5C2 /* yujin.mp3 */,
+				CD56A0171C34C9B900A6A5C2 /* zhangbao.mp3 */,
+				CD56A0181C34C9B900A6A5C2 /* zhangfei.mp3 */,
+				CD56A0191C34C9B900A6A5C2 /* zhangheng.mp3 */,
+				CD56A01A1C34C9B900A6A5C2 /* zhangji3.mp3 */,
+				CD56A01B1C34C9B900A6A5C2 /* zhangji4.mp3 */,
+				CD56A01C1C34C9B900A6A5C2 /* zhangliao.mp3 */,
+				CD56A01D1C34C9B900A6A5C2 /* zhanglu.mp3 */,
+				CD56A01E1C34C9B900A6A5C2 /* zhangmiao.mp3 */,
+				CD56A01F1C34C9B900A6A5C2 /* zhangren.mp3 */,
+				CD56A0201C34C9B900A6A5C2 /* zhangshao.mp3 */,
+				CD56A0211C34C9B900A6A5C2 /* zhangxiu.mp3 */,
+				CD56A0221C34C9B900A6A5C2 /* zhangxun.mp3 */,
+				CD56A0231C34C9B900A6A5C2 /* zhangying.mp3 */,
+				CD56A0241C34C9B900A6A5C2 /* zhangyun.mp3 */,
+				CD56A0251C34C9B900A6A5C2 /* zhaofan.mp3 */,
+				CD56A0261C34C9B900A6A5C2 /* zhaoguang.mp3 */,
+				CD56A0271C34C9B900A6A5C2 /* zhaoyun.mp3 */,
+				CD56A0281C34C9B900A6A5C2 /* zhongyao.mp3 */,
+				CD56A0291C34C9B900A6A5C2 /* zhoucang.mp3 */,
+				CD56A02A1C34C9B900A6A5C2 /* zhoutai.mp3 */,
+				CD56A02B1C34C9B900A6A5C2 /* zhouyu.mp3 */,
+				CD56A02C1C34C9B900A6A5C2 /* zhubao.mp3 */,
+				CD56A02D1C34C9B900A6A5C2 /* zhugedan.mp3 */,
+				CD56A02E1C34C9B900A6A5C2 /* zhugejin.mp3 */,
+				CD56A02F1C34C9B900A6A5C2 /* zhugejun.mp3 */,
+				CD56A0301C34C9B900A6A5C2 /* zhugeke.mp3 */,
+				CD56A0311C34C9B900A6A5C2 /* zhugeliang.mp3 */,
+				CD56A0321C34C9B900A6A5C2 /* zhuhuan.mp3 */,
+				CD56A0331C34C9B900A6A5C2 /* zhujun.mp3 */,
+				CD56A0341C34C9B900A6A5C2 /* zhuling.mp3 */,
+				CD56A0351C34C9B900A6A5C2 /* zhuzhi.mp3 */,
 			);
 			name = mp3;
 			sourceTree = "<group>";
@@ -231,6 +926,7 @@
 		CD19223C1BF6CE60006E7F9A /* komei */ = {
 			isa = PBXGroup;
 			children = (
+				CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */,
 				CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */,
 				CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */,
 				CD19223F1BF6CE7B006E7F9A /* komei_20per.pdf */,
@@ -244,6 +940,18 @@
 				CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */,
 			);
 			name = komei;
+			sourceTree = "<group>";
+		};
+		CD1922551BF70621006E7F9A /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				CD1922911BF70657006E7F9A /* Icon-40@2x.png */,
+				CD1922931BF70657006E7F9A /* Icon-60@2x.png */,
+				CD1922941BF70657006E7F9A /* Icon-60@3x.png */,
+				CD1922951BF70657006E7F9A /* Icon-Small@2x.png */,
+				CD1922961BF70657006E7F9A /* Icon-Small@3x.png */,
+			);
+			name = icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -351,38 +1059,270 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */,
+				CD56A0511C34C9B900A6A5C2 /* chenlin.mp3 in Resources */,
 				CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */,
-				CD0DED3E1BE86B4F0068E77E /* kouken.mp3 in Resources */,
+				CD56A0FE1C34C9B900A6A5C2 /* yongkai.mp3 in Resources */,
+				CD56A1201C34C9B900A6A5C2 /* zhugeke.mp3 in Resources */,
+				CD56A0371C34C9B900A6A5C2 /* baoxin.mp3 in Resources */,
 				CD19224D1BF6CE7B006E7F9A /* komei_80per.pdf in Resources */,
 				CD19224A1BF6CE7B006E7F9A /* komei_20per.pdf in Resources */,
+				CD56A0CA1C34C9B900A6A5C2 /* simazhao.mp3 in Resources */,
+				CD56A0841C34C9B900A6A5C2 /* jinxuan.mp3 in Resources */,
+				CD56A0DD1C34C9B900A6A5C2 /* wenpin.mp3 in Resources */,
+				CD56A0F41C34C9B900A6A5C2 /* yangfeng.mp3 in Resources */,
+				CD56A03B1C34C9B900A6A5C2 /* caizhong.mp3 in Resources */,
 				CD19224F1BF6CE7B006E7F9A /* komei_buhao.pdf in Resources */,
+				CD56A10D1C34C9B900A6A5C2 /* zhanglu.mp3 in Resources */,
+				CD56A0361C34C9B900A6A5C2 /* baolong.mp3 in Resources */,
+				CD56A0551C34C9B900A6A5C2 /* dianwei.mp3 in Resources */,
+				CD56A0971C34C9B900A6A5C2 /* liucong.mp3 in Resources */,
+				CD56A0FA1C34C9B900A6A5C2 /* yanliang.mp3 in Resources */,
+				CD56A0DA1C34C9B900A6A5C2 /* weixu.mp3 in Resources */,
+				CD56A08A1C34C9B900A6A5C2 /* leitong.mp3 in Resources */,
+				CD56A06F1C34C9B900A6A5C2 /* hansui.mp3 in Resources */,
+				CD56A05D1C34C9B900A6A5C2 /* fuying.mp3 in Resources */,
+				CD56A1031C34C9B900A6A5C2 /* yuanxi.mp3 in Resources */,
+				CD56A0B91C34C9B900A6A5C2 /* mengda.mp3 in Resources */,
+				CD56A09E1C34C9B900A6A5C2 /* liuxun.mp3 in Resources */,
+				CD56A0E41C34C9B900A6A5C2 /* xiahoushang.mp3 in Resources */,
+				CD56A0931C34C9B900A6A5C2 /* lisu.mp3 in Resources */,
+				CD56A0D91C34C9B900A6A5C2 /* wangshuang.mp3 in Resources */,
+				CD56A0D01C34C9B900A6A5C2 /* sunyi.mp3 in Resources */,
+				CD56A1161C34C9B900A6A5C2 /* zhaoguang.mp3 in Resources */,
+				CD56A0B61C34C9B900A6A5C2 /* matie.mp3 in Resources */,
+				CD56A0A71C34C9B900A6A5C2 /* luji.mp3 in Resources */,
+				CD56A0ED1C34C9B900A6A5C2 /* xujing.mp3 in Resources */,
+				CD56A0B51C34C9B900A6A5C2 /* mateng.mp3 in Resources */,
+				CD56A0801C34C9B900A6A5C2 /* jiangwei.mp3 in Resources */,
+				CD56A0911C34C9B900A6A5C2 /* lingtong.mp3 in Resources */,
+				CD56A07B1C34C9B900A6A5C2 /* jiakui.mp3 in Resources */,
+				CD56A0611C34C9B900A6A5C2 /* gaopai.mp3 in Resources */,
+				CD56A07A1C34C9B900A6A5C2 /* huzun.mp3 in Resources */,
+				CD56A10B1C34C9B900A6A5C2 /* zhangji4.mp3 in Resources */,
+				CD56A0721C34C9B900A6A5C2 /* haozhao.mp3 in Resources */,
+				CD56A0E71C34C9B900A6A5C2 /* xingdaorong.mp3 in Resources */,
+				CD56A06A1C34C9B900A6A5C2 /* guosi.mp3 in Resources */,
+				CD56A0411C34C9B900A6A5C2 /* caopi.mp3 in Resources */,
+				CD56A0AF1C34C9B900A6A5C2 /* machao.mp3 in Resources */,
+				CD56A1181C34C9B900A6A5C2 /* zhongyao.mp3 in Resources */,
+				CD56A11F1C34C9B900A6A5C2 /* zhugejun.mp3 in Resources */,
+				CD56A0EF1C34C9B900A6A5C2 /* xunyu.mp3 in Resources */,
 				CD19224C1BF6CE7B006E7F9A /* komei_60per.pdf in Resources */,
-				CD0DED521BEECF690068E77E /* bg_2.jpg in Resources */,
-				CD0DED391BE86B4F0068E77E /* kakousyou.mp3 in Resources */,
-				CD0DED371BE86B4F0068E77E /* iseki.mp3 in Resources */,
-				CD0DED3D1BE86B4F0068E77E /* kougai.mp3 in Resources */,
-				CD0DED3F1BE86B4F0068E77E /* kouso.mp3 in Resources */,
-				CD0DED481BE86B7A0068E77E /* Person.plist in Resources */,
-				CD0DED381BE86B4F0068E77E /* kakouen.mp3 in Resources */,
+				CD56A0781C34C9B900A6A5C2 /* huaxin.mp3 in Resources */,
+				CD56A1191C34C9B900A6A5C2 /* zhoucang.mp3 in Resources */,
+				CD56A04E1C34C9B900A6A5C2 /* chenheng.mp3 in Resources */,
+				CD56A0F51C34C9B900A6A5C2 /* yanghuai.mp3 in Resources */,
+				CD56A1001C34C9B900A6A5C2 /* yuanshao.mp3 in Resources */,
+				CD56A0A41C34C9B900A6A5C2 /* liyan.mp3 in Resources */,
+				CD56A0901C34C9B900A6A5C2 /* lijue.mp3 in Resources */,
+				CD56A0681C34C9B900A6A5C2 /* guohuai.mp3 in Resources */,
+				CD56A0A61C34C9B900A6A5C2 /* lufan.mp3 in Resources */,
+				CD56A1111C34C9B900A6A5C2 /* zhangxiu.mp3 in Resources */,
+				CD56A0861C34C9B900A6A5C2 /* kanze.mp3 in Resources */,
+				CD56A05A1C34C9B900A6A5C2 /* fanchou.mp3 in Resources */,
+				CD56A0B41C34C9B900A6A5C2 /* masu.mp3 in Resources */,
+				CD56A0E61C34C9B900A6A5C2 /* xiangchong.mp3 in Resources */,
+				CD56A0AD1C34C9B900A6A5C2 /* luxiang.mp3 in Resources */,
+				CD56A0951C34C9B900A6A5C2 /* liubei.mp3 in Resources */,
+				CD56A0981C34C9B900A6A5C2 /* liudai.mp3 in Resources */,
+				CD56A0DE1C34C9B900A6A5C2 /* wuban.mp3 in Resources */,
+				CD56A0D81C34C9B900A6A5C2 /* wangping.mp3 in Resources */,
+				CD56A0B01C34C9B900A6A5C2 /* madai.mp3 in Resources */,
+				CD56A0EA1C34C9B900A6A5C2 /* xueying.mp3 in Resources */,
+				CD56A06E1C34C9B900A6A5C2 /* handang.mp3 in Resources */,
+				CD56A0F31C34C9B900A6A5C2 /* yangbiao.mp3 in Resources */,
+				CD56A0E01C34C9B900A6A5C2 /* wuyi.mp3 in Resources */,
+				CD56A1241C34C9B900A6A5C2 /* zhuling.mp3 in Resources */,
+				CD56A1011C34C9B900A6A5C2 /* yuanshu.mp3 in Resources */,
+				CD56A11B1C34C9B900A6A5C2 /* zhouyu.mp3 in Resources */,
+				CD56A1221C34C9B900A6A5C2 /* zhuhuan.mp3 in Resources */,
+				CD56A0EC1C34C9B900A6A5C2 /* xuhuang.mp3 in Resources */,
+				CD56A0651C34C9B900A6A5C2 /* guansuo.mp3 in Resources */,
+				CD56A0741C34C9B900A6A5C2 /* huanggai.mp3 in Resources */,
+				CD56A0D61C34C9B900A6A5C2 /* wanglang.mp3 in Resources */,
+				CD56A10C1C34C9B900A6A5C2 /* zhangliao.mp3 in Resources */,
+				CD56A0AA1C34C9B900A6A5C2 /* lumeng.mp3 in Resources */,
+				CD56A0D51C34C9B900A6A5C2 /* wangcan.mp3 in Resources */,
+				CD56A0F11C34C9B900A6A5C2 /* xusheng.mp3 in Resources */,
+				CD56A1071C34C9B900A6A5C2 /* zhangbao.mp3 in Resources */,
+				CD56A05F1C34C9B900A6A5C2 /* gaoding.mp3 in Resources */,
+				CD56A0E31C34C9B900A6A5C2 /* xiahoumao.mp3 in Resources */,
+				CD56A0B11C34C9B900A6A5C2 /* maliang.mp3 in Resources */,
+				CD56A0A21C34C9B900A6A5C2 /* liuyong.mp3 in Resources */,
+				CD56A0871C34C9B900A6A5C2 /* kongrong.mp3 in Resources */,
+				CD56A0471C34C9B900A6A5C2 /* chendao.mp3 in Resources */,
+				CD56A0751C34C9B900A6A5C2 /* huangquan.mp3 in Resources */,
+				CD56A0C71C34C9B900A6A5C2 /* shiren.mp3 in Resources */,
+				CD56A0AC1C34C9B900A6A5C2 /* lusu.mp3 in Resources */,
+				CD56A0381C34C9B900A6A5C2 /* buzhi.mp3 in Resources */,
+				CD56A0671C34C9B900A6A5C2 /* guanyu.mp3 in Resources */,
+				CD19229C1BF70657006E7F9A /* Icon-Small@3x.png in Resources */,
+				CD56A0A11C34C9B900A6A5C2 /* liuyao.mp3 in Resources */,
+				CD1922541BF6E2B5006E7F9A /* komei_silhouette.pdf in Resources */,
+				CD56A0711C34C9B900A6A5C2 /* hanxuan.mp3 in Resources */,
+				CD56A1061C34C9B900A6A5C2 /* yujin.mp3 in Resources */,
+				CD56A0481C34C9B900A6A5C2 /* chengong.mp3 in Resources */,
+				CD56A0E21C34C9B900A6A5C2 /* xiahoudun.mp3 in Resources */,
+				CD56A12D1C351A7A00A6A5C2 /* twitter.png in Resources */,
+				CD56A0F91C34C9B900A6A5C2 /* yanjun.mp3 in Resources */,
 				CD19224B1BF6CE7B006E7F9A /* komei_40per.pdf in Resources */,
+				CD56A1051C34C9B900A6A5C2 /* yufan.mp3 in Resources */,
+				CD56A0B81C34C9B900A6A5C2 /* maxiu.mp3 in Resources */,
+				CD56A0851C34C9B900A6A5C2 /* jushou.mp3 in Resources */,
+				CD56A1171C34C9B900A6A5C2 /* zhaoyun.mp3 in Resources */,
+				CD56A0791C34C9B900A6A5C2 /* huaxiong.mp3 in Resources */,
+				CD56A1131C34C9B900A6A5C2 /* zhangying.mp3 in Resources */,
+				CD56A0E81C34C9B900A6A5C2 /* xinpi.mp3 in Resources */,
 				CD0DECC61BE869080068E77E /* LaunchScreen.storyboard in Resources */,
-				CD0DED421BE86B4F0068E77E /* ourui.mp3 in Resources */,
+				CD56A07D1C34C9B900A6A5C2 /* jiangqin.mp3 in Resources */,
+				CD56A0771C34C9B900A6A5C2 /* huangzu.mp3 in Resources */,
+				CD56A0C81C34C9B900A6A5C2 /* simashi.mp3 in Resources */,
+				CD56A05B1C34C9B900A6A5C2 /* fazheng.mp3 in Resources */,
+				CD56A07C1C34C9B900A6A5C2 /* jianggan.mp3 in Resources */,
+				CD56A0A81C34C9B900A6A5C2 /* lukai.mp3 in Resources */,
+				CD56A0701C34C9B900A6A5C2 /* hanxian.mp3 in Resources */,
+				CD56A06C1C34C9B900A6A5C2 /* guoyouzhi.mp3 in Resources */,
+				CD56A11A1C34C9B900A6A5C2 /* zhoutai.mp3 in Resources */,
 				CD0DECC31BE869080068E77E /* Assets.xcassets in Resources */,
-				CD0DED501BEECE260068E77E /* bg.jpg in Resources */,
+				CD56A0FB1C34C9B900A6A5C2 /* yanpu.mp3 in Resources */,
+				CD56A0641C34C9B900A6A5C2 /* guanping.mp3 in Resources */,
+				CD56A0C91C34C9B900A6A5C2 /* simayi.mp3 in Resources */,
+				CD56A07E1C34C9B900A6A5C2 /* jiangshu.mp3 in Resources */,
+				CD56A0F61C34C9B900A6A5C2 /* yangqiu.mp3 in Resources */,
+				CD56A03C1C34C9B900A6A5C2 /* caoang.mp3 in Resources */,
+				CD56A0921C34C9B900A6A5C2 /* liru.mp3 in Resources */,
+				CD56A0CB1C34C9B900A6A5C2 /* songxian.mp3 in Resources */,
+				CD56A09D1C34C9B900A6A5C2 /* liushan.mp3 in Resources */,
+				CD56A1231C34C9B900A6A5C2 /* zhujun.mp3 in Resources */,
+				CD56A0B21C34C9B900A6A5C2 /* manchong.mp3 in Resources */,
 				CD1922211BF39BB1006E7F9A /* title.pdf in Resources */,
-				CD0DED401BE86B4F0068E77E /* ouhei.mp3 in Resources */,
-				CD0DED541BEF75970068E77E /* bg_3.jpg in Resources */,
-				CD0DED411BE86B4F0068E77E /* ourou.mp3 in Resources */,
+				CD56A1101C34C9B900A6A5C2 /* zhangshao.mp3 in Resources */,
+				CD56A0D21C34C9B900A6A5C2 /* taishici.mp3 in Resources */,
+				CD1922971BF70657006E7F9A /* Icon-40@2x.png in Resources */,
+				CD56A09B1C34C9B900A6A5C2 /* liuli.mp3 in Resources */,
+				CD56A03D1C34C9B900A6A5C2 /* caobao.mp3 in Resources */,
+				CD56A05C1C34C9B900A6A5C2 /* feiyi.mp3 in Resources */,
+				CD56A0631C34C9B900A6A5C2 /* gongzhi.mp3 in Resources */,
+				CD56A0761C34C9B900A6A5C2 /* huangzhong.mp3 in Resources */,
+				CD56A0BC1C34C9B900A6A5C2 /* mifang.mp3 in Resources */,
+				CD872C101C3437E100363A3A /* Person.plist in Resources */,
+				CD56A0831C34C9B900A6A5C2 /* jiling.mp3 in Resources */,
+				CD56A0D31C34C9B900A6A5C2 /* tangzi.mp3 in Resources */,
+				CD56A0AE1C34C9B900A6A5C2 /* luxun.mp3 in Resources */,
+				CD56A0E51C34C9B900A6A5C2 /* xiahouyuan.mp3 in Resources */,
+				CD56A0C11C34C9B900A6A5C2 /* panzhang.mp3 in Resources */,
+				CD56A0941C34C9B900A6A5C2 /* liuba.mp3 in Resources */,
+				CD56A0CC1C34C9B900A6A5C2 /* sunce.mp3 in Resources */,
+				CD56A0811C34C9B900A6A5C2 /* jianyong.mp3 in Resources */,
+				CD1922991BF70657006E7F9A /* Icon-60@2x.png in Resources */,
+				CD56A0581C34C9B900A6A5C2 /* dongyun.mp3 in Resources */,
+				CD56A06D1C34C9B900A6A5C2 /* guyong.mp3 in Resources */,
+				CD56A0C31C34C9B900A6A5C2 /* qiaozhou.mp3 in Resources */,
+				CD56A0461C34C9B900A6A5C2 /* caozhi.mp3 in Resources */,
+				CD56A03F1C34C9B900A6A5C2 /* caochun.mp3 in Resources */,
+				CD56A0961C34C9B900A6A5C2 /* liubiao.mp3 in Resources */,
+				CD56A06B1C34C9B900A6A5C2 /* guotu.mp3 in Resources */,
+				CD56A0431C34C9B900A6A5C2 /* caorui.mp3 in Resources */,
+				CD56A0B31C34C9B900A6A5C2 /* maojie.mp3 in Resources */,
+				CD56A0A01C34C9B900A6A5C2 /* liuyan1.mp3 in Resources */,
+				CD56A0501C34C9B900A6A5C2 /* chenlan.mp3 in Resources */,
+				CD56A0F21C34C9B900A6A5C2 /* xushu.mp3 in Resources */,
+				CD56A0FD1C34C9B900A6A5C2 /* yiji.mp3 in Resources */,
+				CD56A0891C34C9B900A6A5C2 /* leibo.mp3 in Resources */,
+				CD56A0DB1C34C9B900A6A5C2 /* weiyan.mp3 in Resources */,
+				CDCF6A0E1C40B7620011EB75 /* bg_img_result.png in Resources */,
+				CD56A1121C34C9B900A6A5C2 /* zhangxun.mp3 in Resources */,
+				CD56A0D71C34C9B900A6A5C2 /* wanglei.mp3 in Resources */,
+				CD56A11D1C34C9B900A6A5C2 /* zhugedan.mp3 in Resources */,
+				CD56A09A1C34C9B900A6A5C2 /* liufeng.mp3 in Resources */,
+				CD56A1211C34C9B900A6A5C2 /* zhugeliang.mp3 in Resources */,
+				CD56A0C61C34C9B900A6A5C2 /* shenpai.mp3 in Resources */,
+				CD56A0421C34C9B900A6A5C2 /* caoren.mp3 in Resources */,
+				CD56A0DC1C34C9B900A6A5C2 /* wenchou.mp3 in Resources */,
+				CD56A08C1C34C9B900A6A5C2 /* liangxing.mp3 in Resources */,
+				CD56A0BD1C34C9B900A6A5C2 /* mizhu.mp3 in Resources */,
+				CD56A04D1C34C9B900A6A5C2 /* chengyu.mp3 in Resources */,
+				CD56A0CD1C34C9B900A6A5C2 /* sunhuan.mp3 in Resources */,
+				CD56A0CF1C34C9B900A6A5C2 /* sunquan.mp3 in Resources */,
+				CD56A04C1C34C9B900A6A5C2 /* chengyin.mp3 in Resources */,
+				CD19229A1BF70657006E7F9A /* Icon-60@3x.png in Resources */,
+				CD56A0F71C34C9B900A6A5C2 /* yangsong.mp3 in Resources */,
+				CD56A0521C34C9B900A6A5C2 /* chenqun.mp3 in Resources */,
+				CD56A0661C34C9B900A6A5C2 /* guanxing.mp3 in Resources */,
 				CD19224E1BF6CE7B006E7F9A /* komei_100per.pdf in Resources */,
-				CD0DED3A1BE86B4F0068E77E /* kakoutoku.mp3 in Resources */,
+				CD56A0A91C34C9B900A6A5C2 /* lukuang.mp3 in Resources */,
+				CD56A04F1C34C9B900A6A5C2 /* chenjiao.mp3 in Resources */,
+				CD56A0541C34C9B900A6A5C2 /* dengxian.mp3 in Resources */,
+				CD56A10F1C34C9B900A6A5C2 /* zhangren.mp3 in Resources */,
+				CD56A0C21C34C9B900A6A5C2 /* peiyuanshao.mp3 in Resources */,
+				CD56A0881C34C9B900A6A5C2 /* kuaiyue.mp3 in Resources */,
+				CD56A0BB1C34C9B900A6A5C2 /* mengyou.mp3 in Resources */,
+				CD56A0561C34C9B900A6A5C2 /* dingfeng.mp3 in Resources */,
+				CD56A0BF1C34C9B900A6A5C2 /* pangde.mp3 in Resources */,
+				CD56A0F01C34C9B900A6A5C2 /* xurong.mp3 in Resources */,
+				CD56A0A51C34C9B900A6A5C2 /* lubu.mp3 in Resources */,
+				CD56A09F1C34C9B900A6A5C2 /* liuyan.mp3 in Resources */,
+				CD56A0F81C34C9B900A6A5C2 /* yangyi.mp3 in Resources */,
+				CD56A1041C34C9B900A6A5C2 /* yuanyin.mp3 in Resources */,
+				CD56A0FF1C34C9B900A6A5C2 /* yuanshang.mp3 in Resources */,
+				CD56A08E1C34C9B900A6A5C2 /* lidian.mp3 in Resources */,
+				CD56A0591C34C9B900A6A5C2 /* dongzhuo.mp3 in Resources */,
+				CD56A0731C34C9B900A6A5C2 /* houcheng.mp3 in Resources */,
+				CD56A0E91C34C9B900A6A5C2 /* xuchu.mp3 in Resources */,
+				CD56A03E1C34C9B900A6A5C2 /* caocao.mp3 in Resources */,
+				CD56A0BE1C34C9B900A6A5C2 /* niujin.mp3 in Resources */,
+				CD56A11E1C34C9B900A6A5C2 /* zhugejin.mp3 in Resources */,
+				CD56A08D1C34C9B900A6A5C2 /* liaohua.mp3 in Resources */,
+				CD56A0391C34C9B900A6A5C2 /* caihe.mp3 in Resources */,
+				CD56A11C1C34C9B900A6A5C2 /* zhubao.mp3 in Resources */,
+				CD56A07F1C34C9B900A6A5C2 /* jiangwan.mp3 in Resources */,
+				CD56A05E1C34C9B900A6A5C2 /* ganning.mp3 in Resources */,
+				CD56A08B1C34C9B900A6A5C2 /* lejin.mp3 in Resources */,
+				CD56A1151C34C9B900A6A5C2 /* zhaofan.mp3 in Resources */,
+				CD56A10E1C34C9B900A6A5C2 /* zhangmiao.mp3 in Resources */,
+				CD56A09C1C34C9B900A6A5C2 /* liuqi.mp3 in Resources */,
+				CD56A0EE1C34C9B900A6A5C2 /* xunyou.mp3 in Resources */,
+				CD56A04B1C34C9B900A6A5C2 /* chengyi.mp3 in Resources */,
+				CD56A03A1C34C9B900A6A5C2 /* caimao.mp3 in Resources */,
+				CD56A0B71C34C9B900A6A5C2 /* mawan.mp3 in Resources */,
+				CD56A0E11C34C9B900A6A5C2 /* xiahoude.mp3 in Resources */,
+				CD56A0441C34C9B900A6A5C2 /* caoxiu.mp3 in Resources */,
+				CD56A0AB1C34C9B900A6A5C2 /* luqian.mp3 in Resources */,
+				CD56A10A1C34C9B900A6A5C2 /* zhangji3.mp3 in Resources */,
+				CD56A1091C34C9B900A6A5C2 /* zhangheng.mp3 in Resources */,
+				CD56A1081C34C9B900A6A5C2 /* zhangfei.mp3 in Resources */,
+				CD56A0C01C34C9B900A6A5C2 /* pangtong.mp3 in Resources */,
+				CD56A0991C34C9B900A6A5C2 /* liudu.mp3 in Resources */,
+				CD56A0CE1C34C9B900A6A5C2 /* sunjian.mp3 in Resources */,
 				CD1922491BF6CE7B006E7F9A /* komei_1per.pdf in Resources */,
-				CD0DED441BE86B4F0068E77E /* ousou.mp3 in Resources */,
-				CD0DED3B1BE86B4F0068E77E /* kakouton.mp3 in Resources */,
+				CD56A0451C34C9B900A6A5C2 /* caozhen.mp3 in Resources */,
+				CD56A08F1C34C9B900A6A5C2 /* lifeng.mp3 in Resources */,
+				CD56A1021C34C9B900A6A5C2 /* yuantan.mp3 in Resources */,
+				CD19229B1BF70657006E7F9A /* Icon-Small@2x.png in Resources */,
+				CD56A0821C34C9B900A6A5C2 /* jiaxu.mp3 in Resources */,
+				CD56A0491C34C9B900A6A5C2 /* chengpu.mp3 in Resources */,
+				CD56A0BA1C34C9B900A6A5C2 /* menghuo.mp3 in Resources */,
+				CD56A0401C34C9B900A6A5C2 /* caohong.mp3 in Resources */,
+				CD56A0A31C34C9B900A6A5C2 /* liuzhang.mp3 in Resources */,
+				CD56A0DF1C34C9B900A6A5C2 /* wulan.mp3 in Resources */,
+				CD56A1291C34F9AA00A6A5C2 /* bg_img.png in Resources */,
+				CD56A0691C34C9B900A6A5C2 /* guojia.mp3 in Resources */,
+				CD56A04A1C34C9B900A6A5C2 /* chengui.mp3 in Resources */,
+				CD56A0D41C34C9B900A6A5C2 /* tianchou.mp3 in Resources */,
 				CD1922501BF6CE7B006E7F9A /* komei_dot.pdf in Resources */,
+				CD56A1251C34C9B900A6A5C2 /* zhuzhi.mp3 in Resources */,
+				CD56A0621C34C9B900A6A5C2 /* gongsunzan.mp3 in Resources */,
+				CD56A0EB1C34C9B900A6A5C2 /* xugong.mp3 in Resources */,
 				CD1922521BF6CE7B006E7F9A /* komei_kaishi.pdf in Resources */,
-				CD0DED431BE86B4F0068E77E /* ousan.mp3 in Resources */,
+				CD56A0FC1C34C9B900A6A5C2 /* yanyan.mp3 in Resources */,
+				CD56A0C51C34C9B900A6A5C2 /* shamoke.mp3 in Resources */,
 				CD0DECC11BE869080068E77E /* Main.storyboard in Resources */,
-				CD0DED3C1BE86B4F0068E77E /* kouchu.mp3 in Resources */,
+				CD56A0571C34C9B900A6A5C2 /* dongmin.mp3 in Resources */,
+				CD56A0601C34C9B900A6A5C2 /* gaolan.mp3 in Resources */,
+				CD56A0C41C34C9B900A6A5C2 /* quancong.mp3 in Resources */,
+				CD56A0D11C34C9B900A6A5C2 /* sunyu.mp3 in Resources */,
+				CD56A1141C34C9B900A6A5C2 /* zhangyun.mp3 in Resources */,
+				CD56A0531C34C9B900A6A5C2 /* chenwu.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

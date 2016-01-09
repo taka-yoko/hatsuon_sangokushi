@@ -145,7 +145,11 @@ class QuizViewController: UIViewController {
             //ピンイン姓
             let pinyin_sei = feeds[q].objectForKey("pinyin_sei") as? String
             //ピンイン名
-            let pinyin_mei = feeds[q].objectForKey("pinyin_mei") as? String
+            var pinyin_mei = feeds[q].objectForKey("pinyin_mei") as? String
+            //名前のない（姓名区別がない）武将の場合
+            if pinyin_mei == "null" {
+                pinyin_mei = ""
+            }
             //ピンイン表示
             pinyinLabel.text = pinyin_sei! + " " + pinyin_mei!
             

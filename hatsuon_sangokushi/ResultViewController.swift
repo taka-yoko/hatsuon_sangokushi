@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Social
 
 class ResultViewController: UIViewController {
     
@@ -14,6 +15,12 @@ class ResultViewController: UIViewController {
     var totalQuestionCount = 0
     var correctCount = 0
     var questionResult = 0
+    
+    //キャプチャ画像
+    var capturedImage: UIImage?
+    
+    //twitterボタン
+    @IBOutlet weak var twitterButton: UIButton!
     
     //0問中0問正解
     @IBOutlet weak var resultLabel: UILabel!
@@ -48,6 +55,8 @@ class ResultViewController: UIViewController {
         } else {
             resultImageView.image = UIImage(named: "asset_komei_0per")
         }
+        
+        capturedImage = GetImage() as UIImage
     }
     
     override func didReceiveMemoryWarning() {
@@ -56,5 +65,67 @@ class ResultViewController: UIViewController {
     }
     
     
+    //SNS設定
+    
+    /*
+    スクリーンキャプチャ用関数
+    :return UIImage
+    */
+    func GetImage() -> UIImage {
+        let rect = self.view.bounds
+        
+        UIGraphicsBeginImageContextWithOptions(rect.size, false, 0.0)
+        let context: CGContextRef = UIGraphicsGetCurrentContext()!
+        
+        self.view.layer.renderInContext(context)
+        let capturedImage: UIImage = UIGraphicsGetImageFromCurrentImageContext()
+        
+        UIGraphicsEndImageContext()
+        
+        return capturedImage
+        
+    }
+    
+    
+    
+    @IBAction func pressTwitter(sender: AnyObject) {
+        //Tweet用のViewを作成する
+        let twitterPostView:SLComposeViewController = SLComposeViewController(forServiceType: SLServiceTypeTwitter)!
+        let tweetDescription1:String = "【発音三国志】"
+        let tweetDescription2:String = "あなたの知力は・・・"
+        twitterPostView.setInitialText("\(tweetDescription1)\n\(tweetDescription2)")
+        
+        //起動時にキャプチャしたスクリーンショットを添付する
+        twitterPostView.addImage(capturedImage)
+
+        //上述の内容を反映したTweet画面を表示する
+        self.presentViewController(twitterPostView, animated: true, completion: nil)
+    }
+    
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
