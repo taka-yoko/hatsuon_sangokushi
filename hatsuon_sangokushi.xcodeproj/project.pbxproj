@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD0600431C41E93F000A7370 /* komei_buhao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD0600411C41E93F000A7370 /* komei_buhao.pdf */; };
+		CD0600441C41E93F000A7370 /* komei_hao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD0600421C41E93F000A7370 /* komei_hao.pdf */; };
+		CD0600481C41F5B1000A7370 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = CD0600471C41F5B1000A7370 /* facebook.png */; };
 		CD0DECBC1BE869080068E77E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECBB1BE869080068E77E /* AppDelegate.swift */; };
 		CD0DECBE1BE869080068E77E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DECBD1BE869080068E77E /* ViewController.swift */; };
 		CD0DECC11BE869080068E77E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0DECBF1BE869080068E77E /* Main.storyboard */; };
@@ -27,9 +30,7 @@
 		CD19224C1BF6CE7B006E7F9A /* komei_60per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */; };
 		CD19224D1BF6CE7B006E7F9A /* komei_80per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */; };
 		CD19224E1BF6CE7B006E7F9A /* komei_100per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */; };
-		CD19224F1BF6CE7B006E7F9A /* komei_buhao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */; };
 		CD1922501BF6CE7B006E7F9A /* komei_dot.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */; };
-		CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */; };
 		CD1922521BF6CE7B006E7F9A /* komei_kaishi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */; };
 		CD1922541BF6E2B5006E7F9A /* komei_silhouette.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */; };
 		CD1922971BF70657006E7F9A /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1922911BF70657006E7F9A /* Icon-40@2x.png */; };
@@ -280,8 +281,8 @@
 		CD56A1271C34F31200A6A5C2 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD56A1261C34F31200A6A5C2 /* Social.framework */; };
 		CD56A1291C34F9AA00A6A5C2 /* bg_img.png in Resources */ = {isa = PBXBuildFile; fileRef = CD56A1281C34F9AA00A6A5C2 /* bg_img.png */; };
 		CD56A12D1C351A7A00A6A5C2 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = CD56A12C1C351A7A00A6A5C2 /* twitter.png */; };
-		CD872C101C3437E100363A3A /* Person.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD872C0F1C3437E100363A3A /* Person.plist */; };
 		CDCF6A0E1C40B7620011EB75 /* bg_img_result.png in Resources */ = {isa = PBXBuildFile; fileRef = CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */; };
+		CDCF6A101C41E1A50011EB75 /* Person.plist in Resources */ = {isa = PBXBuildFile; fileRef = CDCF6A0F1C41E1A50011EB75 /* Person.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -302,6 +303,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD0600411C41E93F000A7370 /* komei_buhao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = komei_buhao.pdf; path = ../../../../Desktop/komei_buhao.pdf; sourceTree = "<group>"; };
+		CD0600421C41E93F000A7370 /* komei_hao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = komei_hao.pdf; path = ../../../../Desktop/komei_hao.pdf; sourceTree = "<group>"; };
+		CD0600471C41F5B1000A7370 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebook.png; path = ../../../../Desktop/facebook.png; sourceTree = "<group>"; };
 		CD0DECB81BE869080068E77E /* hatsuon_sangokushi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hatsuon_sangokushi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0DECBB1BE869080068E77E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD0DECBD1BE869080068E77E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -328,9 +332,7 @@
 		CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_60per.pdf; sourceTree = "<group>"; };
 		CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_80per.pdf; sourceTree = "<group>"; };
 		CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_100per.pdf; sourceTree = "<group>"; };
-		CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_buhao.pdf; sourceTree = "<group>"; };
 		CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_dot.pdf; sourceTree = "<group>"; };
-		CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_hao.pdf; sourceTree = "<group>"; };
 		CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_kaishi.pdf; sourceTree = "<group>"; };
 		CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_silhouette.pdf; sourceTree = "<group>"; };
 		CD1922911BF70657006E7F9A /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
@@ -581,8 +583,8 @@
 		CD56A1261C34F31200A6A5C2 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		CD56A1281C34F9AA00A6A5C2 /* bg_img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg_img.png; path = ../../../../Desktop/bg_img.png; sourceTree = "<group>"; };
 		CD56A12C1C351A7A00A6A5C2 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = twitter.png; path = ../../../../Downloads/twitter.png; sourceTree = "<group>"; };
-		CD872C0F1C3437E100363A3A /* Person.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Person.plist; sourceTree = "<group>"; };
 		CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg_img_result.png; path = ../../../../Desktop/bg_img_result.png; sourceTree = "<group>"; };
+		CDCF6A0F1C41E1A50011EB75 /* Person.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Person.plist; path = "../../../../Dropbox/private/三国志関連/PlistFiles/Person.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -635,10 +637,11 @@
 		CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */ = {
 			isa = PBXGroup;
 			children = (
+				CD0600471C41F5B1000A7370 /* facebook.png */,
+				CDCF6A0F1C41E1A50011EB75 /* Person.plist */,
 				CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */,
 				CD56A12C1C351A7A00A6A5C2 /* twitter.png */,
 				CD56A1281C34F9AA00A6A5C2 /* bg_img.png */,
-				CD872C0F1C3437E100363A3A /* Person.plist */,
 				CD1922551BF70621006E7F9A /* icon */,
 				CD19223C1BF6CE60006E7F9A /* komei */,
 				CD0DED491BE86BA70068E77E /* MDColor.swift */,
@@ -926,6 +929,8 @@
 		CD19223C1BF6CE60006E7F9A /* komei */ = {
 			isa = PBXGroup;
 			children = (
+				CD0600411C41E93F000A7370 /* komei_buhao.pdf */,
+				CD0600421C41E93F000A7370 /* komei_hao.pdf */,
 				CD1922531BF6E2B5006E7F9A /* komei_silhouette.pdf */,
 				CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */,
 				CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */,
@@ -934,9 +939,7 @@
 				CD1922411BF6CE7B006E7F9A /* komei_60per.pdf */,
 				CD1922421BF6CE7B006E7F9A /* komei_80per.pdf */,
 				CD1922431BF6CE7B006E7F9A /* komei_100per.pdf */,
-				CD1922441BF6CE7B006E7F9A /* komei_buhao.pdf */,
 				CD1922451BF6CE7B006E7F9A /* komei_dot.pdf */,
-				CD1922461BF6CE7B006E7F9A /* komei_hao.pdf */,
 				CD1922471BF6CE7B006E7F9A /* komei_kaishi.pdf */,
 			);
 			name = komei;
@@ -1060,7 +1063,6 @@
 			files = (
 				CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */,
 				CD56A0511C34C9B900A6A5C2 /* chenlin.mp3 in Resources */,
-				CD1922511BF6CE7B006E7F9A /* komei_hao.pdf in Resources */,
 				CD56A0FE1C34C9B900A6A5C2 /* yongkai.mp3 in Resources */,
 				CD56A1201C34C9B900A6A5C2 /* zhugeke.mp3 in Resources */,
 				CD56A0371C34C9B900A6A5C2 /* baoxin.mp3 in Resources */,
@@ -1071,7 +1073,6 @@
 				CD56A0DD1C34C9B900A6A5C2 /* wenpin.mp3 in Resources */,
 				CD56A0F41C34C9B900A6A5C2 /* yangfeng.mp3 in Resources */,
 				CD56A03B1C34C9B900A6A5C2 /* caizhong.mp3 in Resources */,
-				CD19224F1BF6CE7B006E7F9A /* komei_buhao.pdf in Resources */,
 				CD56A10D1C34C9B900A6A5C2 /* zhanglu.mp3 in Resources */,
 				CD56A0361C34C9B900A6A5C2 /* baolong.mp3 in Resources */,
 				CD56A0551C34C9B900A6A5C2 /* dianwei.mp3 in Resources */,
@@ -1094,6 +1095,7 @@
 				CD56A0ED1C34C9B900A6A5C2 /* xujing.mp3 in Resources */,
 				CD56A0B51C34C9B900A6A5C2 /* mateng.mp3 in Resources */,
 				CD56A0801C34C9B900A6A5C2 /* jiangwei.mp3 in Resources */,
+				CD0600431C41E93F000A7370 /* komei_buhao.pdf in Resources */,
 				CD56A0911C34C9B900A6A5C2 /* lingtong.mp3 in Resources */,
 				CD56A07B1C34C9B900A6A5C2 /* jiakui.mp3 in Resources */,
 				CD56A0611C34C9B900A6A5C2 /* gaopai.mp3 in Resources */,
@@ -1199,13 +1201,13 @@
 				CD56A1101C34C9B900A6A5C2 /* zhangshao.mp3 in Resources */,
 				CD56A0D21C34C9B900A6A5C2 /* taishici.mp3 in Resources */,
 				CD1922971BF70657006E7F9A /* Icon-40@2x.png in Resources */,
+				CDCF6A101C41E1A50011EB75 /* Person.plist in Resources */,
 				CD56A09B1C34C9B900A6A5C2 /* liuli.mp3 in Resources */,
 				CD56A03D1C34C9B900A6A5C2 /* caobao.mp3 in Resources */,
 				CD56A05C1C34C9B900A6A5C2 /* feiyi.mp3 in Resources */,
 				CD56A0631C34C9B900A6A5C2 /* gongzhi.mp3 in Resources */,
 				CD56A0761C34C9B900A6A5C2 /* huangzhong.mp3 in Resources */,
 				CD56A0BC1C34C9B900A6A5C2 /* mifang.mp3 in Resources */,
-				CD872C101C3437E100363A3A /* Person.plist in Resources */,
 				CD56A0831C34C9B900A6A5C2 /* jiling.mp3 in Resources */,
 				CD56A0D31C34C9B900A6A5C2 /* tangzi.mp3 in Resources */,
 				CD56A0AE1C34C9B900A6A5C2 /* luxun.mp3 in Resources */,
@@ -1216,6 +1218,7 @@
 				CD56A0811C34C9B900A6A5C2 /* jianyong.mp3 in Resources */,
 				CD1922991BF70657006E7F9A /* Icon-60@2x.png in Resources */,
 				CD56A0581C34C9B900A6A5C2 /* dongyun.mp3 in Resources */,
+				CD0600481C41F5B1000A7370 /* facebook.png in Resources */,
 				CD56A06D1C34C9B900A6A5C2 /* guyong.mp3 in Resources */,
 				CD56A0C31C34C9B900A6A5C2 /* qiaozhou.mp3 in Resources */,
 				CD56A0461C34C9B900A6A5C2 /* caozhi.mp3 in Resources */,
@@ -1258,6 +1261,7 @@
 				CD56A0881C34C9B900A6A5C2 /* kuaiyue.mp3 in Resources */,
 				CD56A0BB1C34C9B900A6A5C2 /* mengyou.mp3 in Resources */,
 				CD56A0561C34C9B900A6A5C2 /* dingfeng.mp3 in Resources */,
+				CD0600441C41E93F000A7370 /* komei_hao.pdf in Resources */,
 				CD56A0BF1C34C9B900A6A5C2 /* pangde.mp3 in Resources */,
 				CD56A0F01C34C9B900A6A5C2 /* xurong.mp3 in Resources */,
 				CD56A0A51C34C9B900A6A5C2 /* lubu.mp3 in Resources */,

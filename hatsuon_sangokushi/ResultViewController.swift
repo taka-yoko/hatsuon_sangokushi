@@ -22,6 +22,9 @@ class ResultViewController: UIViewController {
     //twitterボタン
     @IBOutlet weak var twitterButton: UIButton!
     
+    //facebookボタン
+    @IBOutlet weak var facebookButton: UIButton!
+    
     //0問中0問正解
     @IBOutlet weak var resultLabel: UILabel!
     
@@ -93,6 +96,7 @@ class ResultViewController: UIViewController {
         let twitterPostView:SLComposeViewController = SLComposeViewController(forServiceType: SLServiceTypeTwitter)!
         let tweetDescription1:String = "【発音三国志】"
         let tweetDescription2:String = "あなたの知力は・・・"
+        //Tweetする文章を設定する
         twitterPostView.setInitialText("\(tweetDescription1)\n\(tweetDescription2)")
         
         //起動時にキャプチャしたスクリーンショットを添付する
@@ -100,6 +104,22 @@ class ResultViewController: UIViewController {
 
         //上述の内容を反映したTweet画面を表示する
         self.presentViewController(twitterPostView, animated: true, completion: nil)
+    }
+    
+    
+    @IBAction func pressFacebook(sender: AnyObject) {
+        //Facebookシェア用のViewを作成する
+        let facebookPostView:SLComposeViewController = SLComposeViewController(forServiceType: SLServiceTypeFacebook)!
+        let facebookDescription1:String = "【発音三国志】"
+        let facebookDescription2:String = "あなたの知力は・・・"
+        //シェアする文章を設定する
+        facebookPostView.setInitialText("\(facebookDescription1)\n\(facebookDescription2)")
+        
+        //起動時にキャプチャしたスクリーンショットを添付する
+        facebookPostView.addImage(capturedImage)
+
+        //上述の内容を反映したfacebookシェア画面を表示する
+        self.presentViewController(facebookPostView, animated: true, completion: nil)
     }
     
     
