@@ -22,6 +22,11 @@
 		CD0DED4A1BE86BA70068E77E /* MDColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED491BE86BA70068E77E /* MDColor.swift */; };
 		CD0DED4C1BE87F790068E77E /* Button_Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4B1BE87F790068E77E /* Button_Custom.swift */; };
 		CD0DED4E1BE88A940068E77E /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DED4D1BE88A940068E77E /* Extension.swift */; };
+		CD1342721C42601700F7F9B8 /* libNendAd.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1342651C42601700F7F9B8 /* libNendAd.a */; };
+		CD1342731C42601700F7F9B8 /* NADView_readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = CD1342711C42601700F7F9B8 /* NADView_readme.txt */; };
+		CD1342781C42619D00F7F9B8 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1342751C42619D00F7F9B8 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		CD1342791C42619D00F7F9B8 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1342761C42619D00F7F9B8 /* ImageIO.framework */; };
+		CD13427A1C42619D00F7F9B8 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1342771C42619D00F7F9B8 /* Security.framework */; };
 		CD1922211BF39BB1006E7F9A /* title.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD1922201BF39BB1006E7F9A /* title.pdf */; };
 		CD1922481BF6CE7B006E7F9A /* komei_0per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */; };
 		CD1922491BF6CE7B006E7F9A /* komei_1per.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */; };
@@ -324,6 +329,23 @@
 		CD0DED491BE86BA70068E77E /* MDColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MDColor.swift; sourceTree = "<group>"; };
 		CD0DED4B1BE87F790068E77E /* Button_Custom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button_Custom.swift; sourceTree = "<group>"; };
 		CD0DED4D1BE88A940068E77E /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		CD1342651C42601700F7F9B8 /* libNendAd.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libNendAd.a; sourceTree = "<group>"; };
+		CD1342661C42601700F7F9B8 /* NADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADInterstitial.h; sourceTree = "<group>"; };
+		CD1342671C42601700F7F9B8 /* NADNative.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNative.h; sourceTree = "<group>"; };
+		CD1342681C42601700F7F9B8 /* NADNativeClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeClient.h; sourceTree = "<group>"; };
+		CD1342691C42601700F7F9B8 /* NADNativeError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeError.h; sourceTree = "<group>"; };
+		CD13426A1C42601700F7F9B8 /* NADNativeImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeImageView.h; sourceTree = "<group>"; };
+		CD13426B1C42601700F7F9B8 /* NADNativeLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeLabel.h; sourceTree = "<group>"; };
+		CD13426C1C42601700F7F9B8 /* NADNativeLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeLogger.h; sourceTree = "<group>"; };
+		CD13426D1C42601700F7F9B8 /* NADNativeTableViewHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeTableViewHelper.h; sourceTree = "<group>"; };
+		CD13426E1C42601700F7F9B8 /* NADNativeTableViewPlacement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeTableViewPlacement.h; sourceTree = "<group>"; };
+		CD13426F1C42601700F7F9B8 /* NADNativeViewRendering.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADNativeViewRendering.h; sourceTree = "<group>"; };
+		CD1342701C42601700F7F9B8 /* NADView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NADView.h; sourceTree = "<group>"; };
+		CD1342711C42601700F7F9B8 /* NADView_readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NADView_readme.txt; sourceTree = "<group>"; };
+		CD1342741C42605900F7F9B8 /* NendAd-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NendAd-Bridging-Header.h"; sourceTree = "<group>"; };
+		CD1342751C42619D00F7F9B8 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		CD1342761C42619D00F7F9B8 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		CD1342771C42619D00F7F9B8 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		CD1922201BF39BB1006E7F9A /* title.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = title.pdf; sourceTree = "<group>"; };
 		CD19223D1BF6CE7B006E7F9A /* komei_0per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_0per.pdf; sourceTree = "<group>"; };
 		CD19223E1BF6CE7B006E7F9A /* komei_1per.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = komei_1per.pdf; sourceTree = "<group>"; };
@@ -592,7 +614,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD1342781C42619D00F7F9B8 /* AdSupport.framework in Frameworks */,
+				CD1342791C42619D00F7F9B8 /* ImageIO.framework in Frameworks */,
+				CD13427A1C42619D00F7F9B8 /* Security.framework in Frameworks */,
 				CD56A1271C34F31200A6A5C2 /* Social.framework in Frameworks */,
+				CD1342721C42601700F7F9B8 /* libNendAd.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -616,6 +642,10 @@
 		CD0DECAF1BE869080068E77E = {
 			isa = PBXGroup;
 			children = (
+				CD1342751C42619D00F7F9B8 /* AdSupport.framework */,
+				CD1342761C42619D00F7F9B8 /* ImageIO.framework */,
+				CD1342771C42619D00F7F9B8 /* Security.framework */,
+				CD1342641C42601700F7F9B8 /* NendAd */,
 				CD56A1261C34F31200A6A5C2 /* Social.framework */,
 				CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */,
 				CD0DECCF1BE869080068E77E /* hatsuon_sangokushiTests */,
@@ -637,6 +667,7 @@
 		CD0DECBA1BE869080068E77E /* hatsuon_sangokushi */ = {
 			isa = PBXGroup;
 			children = (
+				CD1342741C42605900F7F9B8 /* NendAd-Bridging-Header.h */,
 				CD0600471C41F5B1000A7370 /* facebook.png */,
 				CDCF6A0F1C41E1A50011EB75 /* Person.plist */,
 				CDCF6A0D1C40B7620011EB75 /* bg_img_result.png */,
@@ -924,6 +955,26 @@
 				CD56A0351C34C9B900A6A5C2 /* zhuzhi.mp3 */,
 			);
 			name = mp3;
+			sourceTree = "<group>";
+		};
+		CD1342641C42601700F7F9B8 /* NendAd */ = {
+			isa = PBXGroup;
+			children = (
+				CD1342651C42601700F7F9B8 /* libNendAd.a */,
+				CD1342661C42601700F7F9B8 /* NADInterstitial.h */,
+				CD1342671C42601700F7F9B8 /* NADNative.h */,
+				CD1342681C42601700F7F9B8 /* NADNativeClient.h */,
+				CD1342691C42601700F7F9B8 /* NADNativeError.h */,
+				CD13426A1C42601700F7F9B8 /* NADNativeImageView.h */,
+				CD13426B1C42601700F7F9B8 /* NADNativeLabel.h */,
+				CD13426C1C42601700F7F9B8 /* NADNativeLogger.h */,
+				CD13426D1C42601700F7F9B8 /* NADNativeTableViewHelper.h */,
+				CD13426E1C42601700F7F9B8 /* NADNativeTableViewPlacement.h */,
+				CD13426F1C42601700F7F9B8 /* NADNativeViewRendering.h */,
+				CD1342701C42601700F7F9B8 /* NADView.h */,
+				CD1342711C42601700F7F9B8 /* NADView_readme.txt */,
+			);
+			path = NendAd;
 			sourceTree = "<group>";
 		};
 		CD19223C1BF6CE60006E7F9A /* komei */ = {
@@ -1280,6 +1331,7 @@
 				CD56A0391C34C9B900A6A5C2 /* caihe.mp3 in Resources */,
 				CD56A11C1C34C9B900A6A5C2 /* zhubao.mp3 in Resources */,
 				CD56A07F1C34C9B900A6A5C2 /* jiangwan.mp3 in Resources */,
+				CD1342731C42601700F7F9B8 /* NADView_readme.txt in Resources */,
 				CD56A05E1C34C9B900A6A5C2 /* ganning.mp3 in Resources */,
 				CD56A08B1C34C9B900A6A5C2 /* lejin.mp3 in Resources */,
 				CD56A1151C34C9B900A6A5C2 /* zhaofan.mp3 in Resources */,
@@ -1499,8 +1551,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = hatsuon_sangokushi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/NendAd",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = "yoko.hatsuon-sangokushi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT_NAME)/NendAd-Bridging-Header.h";
 			};
 			name = Debug;
 		};
@@ -1510,8 +1568,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = hatsuon_sangokushi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/NendAd",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = "yoko.hatsuon-sangokushi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT_NAME)/NendAd-Bridging-Header.h";
 			};
 			name = Release;
 		};
